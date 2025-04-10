@@ -1,0 +1,6 @@
+Data/
+Scripts/Network_analysis/
+.RData
+.Rhistory
+.Rproj.user/
+*.DS_Store
