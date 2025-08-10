@@ -1,0 +1,18 @@
+Threshold,NetworkType,Dataset,Nodes,Edges,Number_communities,Modularity,Avg_degree,Avg_clustering_coefficient,Density
+0.1,cclasso,NOPGE_gen_01_asso,994,230209,4,0.180,128.499,0.195,0.466
+0.15,cclasso,NOPGE_gen_01_asso,994,178269,4,0.196,115.541,0.222,0.361
+0.2,cclasso,NOPGE_gen_01_asso,994,136972,4,0.212,101.079,0.251,0.278
+0.25,cclasso,NOPGE_gen_01_asso,988,103878,4,0.215,86.682,0.281,0.213
+0.3,cclasso,NOPGE_gen_01_asso,956,78078,5,0.241,74.789,0.313,0.171
+0.35,cclasso,NOPGE_gen_01_asso,897,57826,6,0.249,65.081,0.355,0.144
+0.4,cclasso,NOPGE_gen_01_asso,853,42902,7,0.250,55.354,0.387,0.118
+0.45,cclasso,NOPGE_gen_01_asso,785,31931,6,0.247,48.300,0.420,0.104
+0.5,cclasso,NOPGE_gen_01_asso,695,24077,10,0.257,43.841,0.466,0.100
+0.55,cclasso,NOPGE_gen_01_asso,553,18256,13,0.265,44.056,0.522,0.120
+0.6,cclasso,NOPGE_gen_01_asso,423,13513,12,0.285,44.694,0.590,0.151
+0.65,cclasso,NOPGE_gen_01_asso,353,9511,14,0.324,39.400,0.628,0.153
+0.85,cclasso,NOPGE_gen_01_asso,73,205,7,0.723,4.868,0.635,0.078
+0.75,cclasso,NOPGE_gen_01_asso,261,3336,11,0.464,20.324,0.637,0.098
+0.7,cclasso,NOPGE_gen_01_asso,303,6030,11,0.380,30.396,0.639,0.132
+0.8,cclasso,NOPGE_gen_01_asso,180,1263,9,0.580,11.643,0.641,0.078
+0.9,cclasso,NOPGE_gen_01_asso,No network available,No network available,No network available,No network available,No network available,No network available,No network available

@@ -1,0 +1,3046 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d1" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d0" for="node" attr.name="layer" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="genus:Abiotrophia">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Allocoprobacillus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Azotobacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Biomaibacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Calditerrivibrio">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Carboxydothermus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Carjivirus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Cellulophaga">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Cellulosilyticum">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Chazhemtobacterium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Duffyella">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Evansella">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Gloeomargarita">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Halostagnicola">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Acidipropionibacterium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Arenibacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Caenibius">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Chania">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Fimbriimonas">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Fluviispira">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Gullanella">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Actinobacillus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Agathobacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Alloscardovia">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Allosphingosinicella">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Amylolactobacillus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Anatilimnocola">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aquiluna">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Asticcacaulis">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Atelocyanobacterium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aurantiacibacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aurantimicrobium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Baekduia">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Carsonella">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Desulfolutivibrio">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Haloprofundus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aequorivita">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Areca">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Defluviitalea">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Gemmatirosa">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Halobacteroides">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aeribacillus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Amphritea">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aquicoccus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Azobacteroides">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Deefgea">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Fibrisoma">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Agarivorans">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aquifex">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Chthonomonas">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Anaerohalosphaera">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Anaerolinea">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Diachasmimorpha">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Egbenema">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Granulicatella">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Hafnia">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Haloferax">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Halopseudomonas">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Alkalicoccus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Altericista">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Anderseniella">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Cardiobacterium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Clavibacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Alloalcanivorax">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aurantimonas">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Brasilonema">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Brettanomyces">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Caldithrix">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Caproiciproducens">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Croceibacterium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Fontisphaera">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Fontisubflavum">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Frigoriglobus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Frischella">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Glaucusvirus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Allosaccharopolyspora">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Fidelibacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Haloferula">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Azorhizophilus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Endoriftia">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Gloeobacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Caldifermentibacillus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Cruoricaptor">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Guyparkeria">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Harrisonburgvirus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Chryseolinea">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Brachybacterium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aureimonas">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Chelativorans">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Falsihalocynthiibacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Antiquaquibacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aquabacterium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Capillimicrobium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Chondrinema">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Erysipelatoclostridium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Faecalimonas">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Halorarius">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aquiflexum">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Chloracidobacterium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Citrobacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Cryptococcus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Curvibacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Arenibacterium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Faecalibacillus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Halarcobacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Aromatoleum">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Gemycircularvirus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Catalinimonas">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Ensifer">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Halovenus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Fohxhuevirus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Caldibacillus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Cardinium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Catenulispora">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Chenggangzhangella">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Desulfurobacterium">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Emcibacter">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Halobellus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Halosolutus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Chlorovirus">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Geothrix">
+      <data key="d0">genus</data>
+    </node>
+    <node id="genus:Halomicronema">
+      <data key="d0">genus</data>
+    </node>
+    <node id="species:Streptomyces spongiicola">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces lavendulae">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces cinnabarinus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces viridosporus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces incarnatus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces vilmorinianum">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces okerensis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces argyrophylli">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces tanashiensis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces poriferorum">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces libani">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces autolyticus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces yunnanensis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces cinereoruber">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces spinosirectus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces lienomycini">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces cellulosae">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces rubrolavendulae">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces scabiei">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces glycanivorans">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces exfoliatus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptomyces zhihengii">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Kitasatospora sp. NBC_00458">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Microbispora hainanensis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Microbispora maris">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Microbispora sp. NBC_01189">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptosporangium sp. NBC_01469">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptosporangium sp. NBC_01755">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Bifidobacterium sp. ESL0682">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Lactococcus sp.">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus hyicus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus pasteuri">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Bifidobacterium sp. ESL0732">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Microbispora sp. NBC_01389">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptosporangium sp. NBC_01495">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptosporangium roseum">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptosporangium subroseum">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Olsenella timonensis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Mycolicibacterium tokaiense">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Mycolicibacterium mengxianglii">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Mycobacterium burgundiense">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Mycolicibacterium baixiangningiae">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Mycolicibacterium aurum">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus sp. LKG3-1">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Bacillus thuringiensis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Bacillus spizizenii">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Mycolicibacterium rutilum">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Mycolicibacterium vanbaalenii">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Mycolicibacterium aichiense">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Parascardovia denticolens">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Richelia sinica">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptosporangium sp. 'caverna'">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptosporangium sp. NBC_01639">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Sphaerisporangium sp. NBC_01403">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Streptosporangium sp. NBC_01810">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Lancefieldella parvula">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus ratti">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus piscifermentans">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Mammaliicoccus lentus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Salinicoccus halodurans">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Macrococcus brunensis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Macrococcus epidermidis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Macrococcus armenti">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Nostoc sphaeroides">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Nostoc piscinale">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Nostoc edaphicum">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Lacticaseibacillus chiayiensis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Lactobacillus amylovorus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Lactobacillus crispatus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Oenococcus oeni">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Furfurilactobacillus rossiae">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Bombilactobacillus thymidiniphilus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Periweissella cryptocerci">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Trichococcus shcherbakoviae">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Trichococcus flocculiformis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Carnobacterium maltaromaticum">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus sp. IVB6181">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus sp. 17KM0847">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus carnosus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus casei">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus edaphicus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus devriesei">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus massiliensis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus condimenti">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus capitis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus lloydii">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus succinus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus kloosii">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus pseudintermedius">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus simiae">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus felis">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus lutrae">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus chromogenes">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Staphylococcus saccharolyticus">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Mammaliicoccus sp. Dog046">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Jeotgalicoccus sp. WY2">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Bacillus mycoides">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Macrococcoides bohemicum">
+      <data key="d0">species</data>
+    </node>
+    <node id="species:Salinicoccus sp. HZC-1">
+      <data key="d0">species</data>
+    </node>
+    <edge source="genus:Abiotrophia" target="genus:Allocoprobacillus">
+      <data key="d1">0.701448080390991</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Azotobacter">
+      <data key="d1">0.726721327914892</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Biomaibacter">
+      <data key="d1">0.749196675555341</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Calditerrivibrio">
+      <data key="d1">0.726372116376382</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Carboxydothermus">
+      <data key="d1">0.735723870516773</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Carjivirus">
+      <data key="d1">0.701776571072887</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Cellulophaga">
+      <data key="d1">0.732921611764482</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Cellulosilyticum">
+      <data key="d1">0.728040739856409</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Chazhemtobacterium">
+      <data key="d1">0.73109762291921</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Duffyella">
+      <data key="d1">0.721978146002185</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Evansella">
+      <data key="d1">0.700187469156455</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Gloeomargarita">
+      <data key="d1">0.73683995395094</data>
+    </edge>
+    <edge source="genus:Abiotrophia" target="genus:Halostagnicola">
+      <data key="d1">0.716228193121988</data>
+    </edge>
+    <edge source="genus:Allocoprobacillus" target="genus:Biomaibacter">
+      <data key="d1">0.70973477870741</data>
+    </edge>
+    <edge source="genus:Azotobacter" target="genus:Biomaibacter">
+      <data key="d1">0.738006112451838</data>
+    </edge>
+    <edge source="genus:Azotobacter" target="genus:Gloeomargarita">
+      <data key="d1">0.700395046258536</data>
+    </edge>
+    <edge source="genus:Biomaibacter" target="genus:Calditerrivibrio">
+      <data key="d1">0.718942110847695</data>
+    </edge>
+    <edge source="genus:Biomaibacter" target="genus:Carboxydothermus">
+      <data key="d1">0.716154079000831</data>
+    </edge>
+    <edge source="genus:Biomaibacter" target="genus:Cellulophaga">
+      <data key="d1">0.717592555201214</data>
+    </edge>
+    <edge source="genus:Biomaibacter" target="genus:Cellulosilyticum">
+      <data key="d1">0.706862252396822</data>
+    </edge>
+    <edge source="genus:Biomaibacter" target="genus:Chazhemtobacterium">
+      <data key="d1">0.711907946630879</data>
+    </edge>
+    <edge source="genus:Biomaibacter" target="genus:Duffyella">
+      <data key="d1">0.711728892130948</data>
+    </edge>
+    <edge source="genus:Biomaibacter" target="genus:Gloeomargarita">
+      <data key="d1">0.728713549413672</data>
+    </edge>
+    <edge source="genus:Biomaibacter" target="genus:Halostagnicola">
+      <data key="d1">0.711472210715292</data>
+    </edge>
+    <edge source="genus:Calditerrivibrio" target="genus:Aromatoleum">
+      <data key="d1">0.718347932271415</data>
+    </edge>
+    <edge source="genus:Calditerrivibrio" target="genus:Carboxydothermus">
+      <data key="d1">0.725647640543604</data>
+    </edge>
+    <edge source="genus:Calditerrivibrio" target="genus:Cellulophaga">
+      <data key="d1">0.716536366430504</data>
+    </edge>
+    <edge source="genus:Calditerrivibrio" target="genus:Cellulosilyticum">
+      <data key="d1">0.72480312775175</data>
+    </edge>
+    <edge source="genus:Calditerrivibrio" target="genus:Chazhemtobacterium">
+      <data key="d1">0.713929556764403</data>
+    </edge>
+    <edge source="genus:Calditerrivibrio" target="genus:Evansella">
+      <data key="d1">0.70168142899364</data>
+    </edge>
+    <edge source="genus:Calditerrivibrio" target="genus:Gloeomargarita">
+      <data key="d1">0.729220993020095</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Aromatoleum">
+      <data key="d1">0.709333348881957</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Cardinium">
+      <data key="d1">0.717161935234222</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Carjivirus">
+      <data key="d1">0.733276475442816</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Catenulispora">
+      <data key="d1">0.718729604861574</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Cellulophaga">
+      <data key="d1">0.747788366908715</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Cellulosilyticum">
+      <data key="d1">0.751093570316453</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Chazhemtobacterium">
+      <data key="d1">0.742431210281888</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Chenggangzhangella">
+      <data key="d1">0.707486901619428</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Desulfurobacterium">
+      <data key="d1">0.70289453049159</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Duffyella">
+      <data key="d1">0.729803250479222</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Emcibacter">
+      <data key="d1">0.702036076279456</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Evansella">
+      <data key="d1">0.710154972872994</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Gloeomargarita">
+      <data key="d1">0.727964958381394</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Halobellus">
+      <data key="d1">0.702697486624124</data>
+    </edge>
+    <edge source="genus:Carboxydothermus" target="genus:Halostagnicola">
+      <data key="d1">0.72347205179202</data>
+    </edge>
+    <edge source="genus:Carjivirus" target="genus:Cardinium">
+      <data key="d1">0.744349432568471</data>
+    </edge>
+    <edge source="genus:Carjivirus" target="genus:Catenulispora">
+      <data key="d1">0.708500123640962</data>
+    </edge>
+    <edge source="genus:Carjivirus" target="genus:Cellulophaga">
+      <data key="d1">0.749288974656431</data>
+    </edge>
+    <edge source="genus:Carjivirus" target="genus:Cellulosilyticum">
+      <data key="d1">0.727931788970359</data>
+    </edge>
+    <edge source="genus:Carjivirus" target="genus:Chazhemtobacterium">
+      <data key="d1">0.742173311317721</data>
+    </edge>
+    <edge source="genus:Carjivirus" target="genus:Chenggangzhangella">
+      <data key="d1">0.70067489357764</data>
+    </edge>
+    <edge source="genus:Carjivirus" target="genus:Desulfurobacterium">
+      <data key="d1">0.727304228011283</data>
+    </edge>
+    <edge source="genus:Carjivirus" target="genus:Duffyella">
+      <data key="d1">0.734361835366496</data>
+    </edge>
+    <edge source="genus:Carjivirus" target="genus:Emcibacter">
+      <data key="d1">0.72237434556275</data>
+    </edge>
+    <edge source="genus:Carjivirus" target="genus:Halostagnicola">
+      <data key="d1">0.730650590336575</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Aromatoleum">
+      <data key="d1">0.702438796787165</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Cardinium">
+      <data key="d1">0.732601124366257</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Catenulispora">
+      <data key="d1">0.707909886222271</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Cellulosilyticum">
+      <data key="d1">0.742663761216064</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Chazhemtobacterium">
+      <data key="d1">0.752069779665655</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Desulfurobacterium">
+      <data key="d1">0.706539872882621</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Duffyella">
+      <data key="d1">0.73802958121485</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Emcibacter">
+      <data key="d1">0.70186186438578</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Evansella">
+      <data key="d1">0.706305497303428</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Gloeomargarita">
+      <data key="d1">0.718479491578871</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Halobellus">
+      <data key="d1">0.705603893150217</data>
+    </edge>
+    <edge source="genus:Cellulophaga" target="genus:Halostagnicola">
+      <data key="d1">0.735584405725091</data>
+    </edge>
+    <edge source="genus:Cellulosilyticum" target="genus:Aromatoleum">
+      <data key="d1">0.705461556891874</data>
+    </edge>
+    <edge source="genus:Cellulosilyticum" target="genus:Cardinium">
+      <data key="d1">0.711681621284426</data>
+    </edge>
+    <edge source="genus:Cellulosilyticum" target="genus:Catenulispora">
+      <data key="d1">0.721447466447598</data>
+    </edge>
+    <edge source="genus:Cellulosilyticum" target="genus:Chazhemtobacterium">
+      <data key="d1">0.742327451956301</data>
+    </edge>
+    <edge source="genus:Cellulosilyticum" target="genus:Chenggangzhangella">
+      <data key="d1">0.711005109564638</data>
+    </edge>
+    <edge source="genus:Cellulosilyticum" target="genus:Desulfurobacterium">
+      <data key="d1">0.710671914588993</data>
+    </edge>
+    <edge source="genus:Cellulosilyticum" target="genus:Duffyella">
+      <data key="d1">0.714283046196247</data>
+    </edge>
+    <edge source="genus:Cellulosilyticum" target="genus:Evansella">
+      <data key="d1">0.72466357486754</data>
+    </edge>
+    <edge source="genus:Cellulosilyticum" target="genus:Gloeomargarita">
+      <data key="d1">0.719530789748522</data>
+    </edge>
+    <edge source="genus:Cellulosilyticum" target="genus:Halostagnicola">
+      <data key="d1">0.708580589379014</data>
+    </edge>
+    <edge source="genus:Chazhemtobacterium" target="genus:Aromatoleum">
+      <data key="d1">0.700314347331186</data>
+    </edge>
+    <edge source="genus:Chazhemtobacterium" target="genus:Cardinium">
+      <data key="d1">0.727066331416327</data>
+    </edge>
+    <edge source="genus:Chazhemtobacterium" target="genus:Desulfurobacterium">
+      <data key="d1">0.701048528032874</data>
+    </edge>
+    <edge source="genus:Chazhemtobacterium" target="genus:Duffyella">
+      <data key="d1">0.730483972006601</data>
+    </edge>
+    <edge source="genus:Chazhemtobacterium" target="genus:Evansella">
+      <data key="d1">0.707561666381472</data>
+    </edge>
+    <edge source="genus:Chazhemtobacterium" target="genus:Gloeomargarita">
+      <data key="d1">0.720484154056763</data>
+    </edge>
+    <edge source="genus:Chazhemtobacterium" target="genus:Halostagnicola">
+      <data key="d1">0.72233607466048</data>
+    </edge>
+    <edge source="genus:Duffyella" target="genus:Cardinium">
+      <data key="d1">0.713401808125414</data>
+    </edge>
+    <edge source="genus:Duffyella" target="genus:Catenulispora">
+      <data key="d1">0.705812829334141</data>
+    </edge>
+    <edge source="genus:Duffyella" target="genus:Emcibacter">
+      <data key="d1">0.711831378106188</data>
+    </edge>
+    <edge source="genus:Duffyella" target="genus:Gloeomargarita">
+      <data key="d1">0.701311196588668</data>
+    </edge>
+    <edge source="genus:Duffyella" target="genus:Halobellus">
+      <data key="d1">0.726798220253004</data>
+    </edge>
+    <edge source="genus:Duffyella" target="genus:Halostagnicola">
+      <data key="d1">0.739402385690327</data>
+    </edge>
+    <edge source="genus:Gloeomargarita" target="genus:Aromatoleum">
+      <data key="d1">0.712246759179645</data>
+    </edge>
+    <edge source="genus:Halostagnicola" target="genus:Cardinium">
+      <data key="d1">0.711536952808169</data>
+    </edge>
+    <edge source="genus:Halostagnicola" target="genus:Halobellus">
+      <data key="d1">0.712134366099463</data>
+    </edge>
+    <edge source="genus:Acidipropionibacterium" target="genus:Arenibacter">
+      <data key="d1">0.724393295911476</data>
+    </edge>
+    <edge source="genus:Acidipropionibacterium" target="genus:Caenibius">
+      <data key="d1">0.713667021761476</data>
+    </edge>
+    <edge source="genus:Acidipropionibacterium" target="genus:Chania">
+      <data key="d1">0.707606780576202</data>
+    </edge>
+    <edge source="genus:Acidipropionibacterium" target="genus:Fimbriimonas">
+      <data key="d1">0.724996656032862</data>
+    </edge>
+    <edge source="genus:Acidipropionibacterium" target="genus:Fluviispira">
+      <data key="d1">0.71360507473722</data>
+    </edge>
+    <edge source="genus:Acidipropionibacterium" target="genus:Gullanella">
+      <data key="d1">0.707546432008901</data>
+    </edge>
+    <edge source="genus:Arenibacter" target="genus:Alkalicoccus">
+      <data key="d1">0.722355654533596</data>
+    </edge>
+    <edge source="genus:Arenibacter" target="genus:Anaerohalosphaera">
+      <data key="d1">0.721299515065835</data>
+    </edge>
+    <edge source="genus:Arenibacter" target="genus:Anderseniella">
+      <data key="d1">0.736127393072762</data>
+    </edge>
+    <edge source="genus:Arenibacter" target="genus:Aureimonas">
+      <data key="d1">0.718707305727767</data>
+    </edge>
+    <edge source="genus:Arenibacter" target="genus:Cardiobacterium">
+      <data key="d1">0.703567329706593</data>
+    </edge>
+    <edge source="genus:Arenibacter" target="genus:Chania">
+      <data key="d1">0.7174945979214</data>
+    </edge>
+    <edge source="genus:Arenibacter" target="genus:Fimbriimonas">
+      <data key="d1">0.741673641530011</data>
+    </edge>
+    <edge source="genus:Arenibacter" target="genus:Fluviispira">
+      <data key="d1">0.737301236124387</data>
+    </edge>
+    <edge source="genus:Caenibius" target="genus:Alkalicoccus">
+      <data key="d1">0.704924479226229</data>
+    </edge>
+    <edge source="genus:Caenibius" target="genus:Fluviispira">
+      <data key="d1">0.706520560768211</data>
+    </edge>
+    <edge source="genus:Caenibius" target="genus:Fohxhuevirus">
+      <data key="d1">0.709396070416484</data>
+    </edge>
+    <edge source="genus:Chania" target="genus:Alkalicoccus">
+      <data key="d1">0.718613113757925</data>
+    </edge>
+    <edge source="genus:Chania" target="genus:Anaerohalosphaera">
+      <data key="d1">0.70693939142941</data>
+    </edge>
+    <edge source="genus:Chania" target="genus:Anderseniella">
+      <data key="d1">0.715041006969366</data>
+    </edge>
+    <edge source="genus:Chania" target="genus:Caldibacillus">
+      <data key="d1">0.709407586748818</data>
+    </edge>
+    <edge source="genus:Chania" target="genus:Cardiobacterium">
+      <data key="d1">0.72304179570517</data>
+    </edge>
+    <edge source="genus:Chania" target="genus:Clavibacter">
+      <data key="d1">0.710105877664655</data>
+    </edge>
+    <edge source="genus:Chania" target="genus:Fluviispira">
+      <data key="d1">0.704878784376404</data>
+    </edge>
+    <edge source="genus:Fimbriimonas" target="genus:Aureimonas">
+      <data key="d1">0.703559504441148</data>
+    </edge>
+    <edge source="genus:Fimbriimonas" target="genus:Fluviispira">
+      <data key="d1">0.73258828923944</data>
+    </edge>
+    <edge source="genus:Fluviispira" target="genus:Alkalicoccus">
+      <data key="d1">0.731352586978417</data>
+    </edge>
+    <edge source="genus:Fluviispira" target="genus:Anderseniella">
+      <data key="d1">0.718882479205102</data>
+    </edge>
+    <edge source="genus:Fluviispira" target="genus:Aureimonas">
+      <data key="d1">0.716981795514249</data>
+    </edge>
+    <edge source="genus:Fluviispira" target="genus:Cardiobacterium">
+      <data key="d1">0.722398857600361</data>
+    </edge>
+    <edge source="genus:Gullanella" target="genus:Anaerohalosphaera">
+      <data key="d1">0.731632584605276</data>
+    </edge>
+    <edge source="genus:Gullanella" target="genus:Anaerolinea">
+      <data key="d1">0.710246000991801</data>
+    </edge>
+    <edge source="genus:Gullanella" target="genus:Desulfolutivibrio">
+      <data key="d1">0.702618289727707</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Agathobacter">
+      <data key="d1">0.723849762849018</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Alloscardovia">
+      <data key="d1">0.713515948710633</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Allosphingosinicella">
+      <data key="d1">0.704803392086441</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Amylolactobacillus">
+      <data key="d1">0.702265928746628</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Anatilimnocola">
+      <data key="d1">0.700776297450038</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Aquiluna">
+      <data key="d1">0.701301215490821</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Asticcacaulis">
+      <data key="d1">0.718845625100792</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Atelocyanobacterium">
+      <data key="d1">0.729865918337275</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Aurantiacibacter">
+      <data key="d1">0.702317142253146</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Aurantimicrobium">
+      <data key="d1">0.70485139680644</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Baekduia">
+      <data key="d1">0.726109354701575</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Carsonella">
+      <data key="d1">0.700606608663894</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Desulfolutivibrio">
+      <data key="d1">0.710938024444989</data>
+    </edge>
+    <edge source="genus:Actinobacillus" target="genus:Haloprofundus">
+      <data key="d1">0.703943235535331</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Alloscardovia">
+      <data key="d1">0.754898705581784</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Allosphingosinicella">
+      <data key="d1">0.701396761260871</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Anaerohalosphaera">
+      <data key="d1">0.70021801219263</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Anaerolinea">
+      <data key="d1">0.732747119974603</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Baekduia">
+      <data key="d1">0.744496887622321</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Desulfolutivibrio">
+      <data key="d1">0.731943904804775</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Diachasmimorpha">
+      <data key="d1">0.709834220345518</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Egbenema">
+      <data key="d1">0.719213901749124</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Granulicatella">
+      <data key="d1">0.712868099170342</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Hafnia">
+      <data key="d1">0.711836508775782</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Haloferax">
+      <data key="d1">0.737970485619429</data>
+    </edge>
+    <edge source="genus:Agathobacter" target="genus:Halopseudomonas">
+      <data key="d1">0.733483235005586</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Anaerohalosphaera">
+      <data key="d1">0.701503002109596</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Anaerolinea">
+      <data key="d1">0.732111776204509</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Azorhizophilus">
+      <data key="d1">0.703291902061342</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Baekduia">
+      <data key="d1">0.741249972410094</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Desulfolutivibrio">
+      <data key="d1">0.730245884190011</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Diachasmimorpha">
+      <data key="d1">0.708923110872915</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Egbenema">
+      <data key="d1">0.732366802721363</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Endoriftia">
+      <data key="d1">0.70638622656041</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Gloeobacter">
+      <data key="d1">0.702635718698212</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Granulicatella">
+      <data key="d1">0.725677176514412</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Haloferax">
+      <data key="d1">0.732667097989461</data>
+    </edge>
+    <edge source="genus:Alloscardovia" target="genus:Halopseudomonas">
+      <data key="d1">0.732067977170064</data>
+    </edge>
+    <edge source="genus:Allosphingosinicella" target="genus:Aquiluna">
+      <data key="d1">0.725858448779135</data>
+    </edge>
+    <edge source="genus:Allosphingosinicella" target="genus:Brasilonema">
+      <data key="d1">0.750434461455491</data>
+    </edge>
+    <edge source="genus:Allosphingosinicella" target="genus:Caldifermentibacillus">
+      <data key="d1">0.75843079228012</data>
+    </edge>
+    <edge source="genus:Allosphingosinicella" target="genus:Caldithrix">
+      <data key="d1">0.757247795932876</data>
+    </edge>
+    <edge source="genus:Allosphingosinicella" target="genus:Croceibacterium">
+      <data key="d1">0.74574266986942</data>
+    </edge>
+    <edge source="genus:Allosphingosinicella" target="genus:Cruoricaptor">
+      <data key="d1">0.767119307513906</data>
+    </edge>
+    <edge source="genus:Allosphingosinicella" target="genus:Fontisphaera">
+      <data key="d1">0.728947106766331</data>
+    </edge>
+    <edge source="genus:Allosphingosinicella" target="genus:Fontisubflavum">
+      <data key="d1">0.726393902268253</data>
+    </edge>
+    <edge source="genus:Allosphingosinicella" target="genus:Guyparkeria">
+      <data key="d1">0.747005271225668</data>
+    </edge>
+    <edge source="genus:Allosphingosinicella" target="genus:Harrisonburgvirus">
+      <data key="d1">0.702813342213647</data>
+    </edge>
+    <edge source="genus:Amylolactobacillus" target="genus:Asticcacaulis">
+      <data key="d1">0.749588975202532</data>
+    </edge>
+    <edge source="genus:Amylolactobacillus" target="genus:Atelocyanobacterium">
+      <data key="d1">0.719631310352789</data>
+    </edge>
+    <edge source="genus:Amylolactobacillus" target="genus:Aurantiacibacter">
+      <data key="d1">0.701675482098879</data>
+    </edge>
+    <edge source="genus:Amylolactobacillus" target="genus:Aurantimicrobium">
+      <data key="d1">0.751304175165078</data>
+    </edge>
+    <edge source="genus:Anatilimnocola" target="genus:Chelativorans">
+      <data key="d1">0.701327332621682</data>
+    </edge>
+    <edge source="genus:Anatilimnocola" target="genus:Haloprofundus">
+      <data key="d1">0.73320276120336</data>
+    </edge>
+    <edge source="genus:Aquiluna" target="genus:Brasilonema">
+      <data key="d1">0.719738374646664</data>
+    </edge>
+    <edge source="genus:Aquiluna" target="genus:Caldifermentibacillus">
+      <data key="d1">0.716134350179013</data>
+    </edge>
+    <edge source="genus:Aquiluna" target="genus:Caldithrix">
+      <data key="d1">0.711958505023815</data>
+    </edge>
+    <edge source="genus:Aquiluna" target="genus:Croceibacterium">
+      <data key="d1">0.705982135294251</data>
+    </edge>
+    <edge source="genus:Aquiluna" target="genus:Cruoricaptor">
+      <data key="d1">0.716088458508725</data>
+    </edge>
+    <edge source="genus:Aquiluna" target="genus:Fontisphaera">
+      <data key="d1">0.737123327615355</data>
+    </edge>
+    <edge source="genus:Aquiluna" target="genus:Fontisubflavum">
+      <data key="d1">0.708770047772822</data>
+    </edge>
+    <edge source="genus:Aquiluna" target="genus:Guyparkeria">
+      <data key="d1">0.706698383838797</data>
+    </edge>
+    <edge source="genus:Aquiluna" target="genus:Haloprofundus">
+      <data key="d1">0.706036643950641</data>
+    </edge>
+    <edge source="genus:Asticcacaulis" target="genus:Atelocyanobacterium">
+      <data key="d1">0.717700920842139</data>
+    </edge>
+    <edge source="genus:Asticcacaulis" target="genus:Aurantiacibacter">
+      <data key="d1">0.714059711254893</data>
+    </edge>
+    <edge source="genus:Asticcacaulis" target="genus:Aurantimicrobium">
+      <data key="d1">0.738120202102164</data>
+    </edge>
+    <edge source="genus:Asticcacaulis" target="genus:Azorhizophilus">
+      <data key="d1">0.707080057785784</data>
+    </edge>
+    <edge source="genus:Asticcacaulis" target="genus:Baekduia">
+      <data key="d1">0.700747455081618</data>
+    </edge>
+    <edge source="genus:Asticcacaulis" target="genus:Gemycircularvirus">
+      <data key="d1">0.701725296826919</data>
+    </edge>
+    <edge source="genus:Atelocyanobacterium" target="genus:Aurantimicrobium">
+      <data key="d1">0.709695760698516</data>
+    </edge>
+    <edge source="genus:Atelocyanobacterium" target="genus:Azorhizophilus">
+      <data key="d1">0.722633870504267</data>
+    </edge>
+    <edge source="genus:Atelocyanobacterium" target="genus:Haloprofundus">
+      <data key="d1">0.700709227298773</data>
+    </edge>
+    <edge source="genus:Aurantimicrobium" target="genus:Gemycircularvirus">
+      <data key="d1">0.702135065708682</data>
+    </edge>
+    <edge source="genus:Baekduia" target="genus:Anaerohalosphaera">
+      <data key="d1">0.73439983444292</data>
+    </edge>
+    <edge source="genus:Baekduia" target="genus:Anaerolinea">
+      <data key="d1">0.737095469991134</data>
+    </edge>
+    <edge source="genus:Baekduia" target="genus:Chelativorans">
+      <data key="d1">0.713512870121936</data>
+    </edge>
+    <edge source="genus:Baekduia" target="genus:Clavibacter">
+      <data key="d1">0.703921199075683</data>
+    </edge>
+    <edge source="genus:Baekduia" target="genus:Desulfolutivibrio">
+      <data key="d1">0.749530569264029</data>
+    </edge>
+    <edge source="genus:Baekduia" target="genus:Egbenema">
+      <data key="d1">0.716892847540639</data>
+    </edge>
+    <edge source="genus:Baekduia" target="genus:Endoriftia">
+      <data key="d1">0.702649542233383</data>
+    </edge>
+    <edge source="genus:Baekduia" target="genus:Granulicatella">
+      <data key="d1">0.713960731460352</data>
+    </edge>
+    <edge source="genus:Baekduia" target="genus:Haloferax">
+      <data key="d1">0.740616252936712</data>
+    </edge>
+    <edge source="genus:Baekduia" target="genus:Halopseudomonas">
+      <data key="d1">0.749156424941494</data>
+    </edge>
+    <edge source="genus:Carsonella" target="genus:Chenggangzhangella">
+      <data key="d1">0.716436919628467</data>
+    </edge>
+    <edge source="genus:Carsonella" target="genus:Desulfurobacterium">
+      <data key="d1">0.730659388149626</data>
+    </edge>
+    <edge source="genus:Desulfolutivibrio" target="genus:Anaerohalosphaera">
+      <data key="d1">0.744735087828834</data>
+    </edge>
+    <edge source="genus:Desulfolutivibrio" target="genus:Anaerolinea">
+      <data key="d1">0.755947983386621</data>
+    </edge>
+    <edge source="genus:Desulfolutivibrio" target="genus:Chelativorans">
+      <data key="d1">0.722871814643107</data>
+    </edge>
+    <edge source="genus:Desulfolutivibrio" target="genus:Clavibacter">
+      <data key="d1">0.722619422889265</data>
+    </edge>
+    <edge source="genus:Desulfolutivibrio" target="genus:Egbenema">
+      <data key="d1">0.709952742717653</data>
+    </edge>
+    <edge source="genus:Desulfolutivibrio" target="genus:Granulicatella">
+      <data key="d1">0.70962740331997</data>
+    </edge>
+    <edge source="genus:Desulfolutivibrio" target="genus:Haloferax">
+      <data key="d1">0.730961980807419</data>
+    </edge>
+    <edge source="genus:Desulfolutivibrio" target="genus:Haloprofundus">
+      <data key="d1">0.703255320157799</data>
+    </edge>
+    <edge source="genus:Desulfolutivibrio" target="genus:Halopseudomonas">
+      <data key="d1">0.734446125872999</data>
+    </edge>
+    <edge source="genus:Haloprofundus" target="genus:Anaerohalosphaera">
+      <data key="d1">0.705674104228401</data>
+    </edge>
+    <edge source="genus:Haloprofundus" target="genus:Caldibacillus">
+      <data key="d1">0.712127223401755</data>
+    </edge>
+    <edge source="genus:Haloprofundus" target="genus:Chelativorans">
+      <data key="d1">0.711658469755518</data>
+    </edge>
+    <edge source="genus:Haloprofundus" target="genus:Clavibacter">
+      <data key="d1">0.703849768200692</data>
+    </edge>
+    <edge source="genus:Haloprofundus" target="genus:Egbenema">
+      <data key="d1">0.701521465759147</data>
+    </edge>
+    <edge source="genus:Aequorivita" target="genus:Areca">
+      <data key="d1">0.706238496899389</data>
+    </edge>
+    <edge source="genus:Aequorivita" target="genus:Defluviitalea">
+      <data key="d1">0.706313439699616</data>
+    </edge>
+    <edge source="genus:Aequorivita" target="genus:Gemmatirosa">
+      <data key="d1">0.706723851623095</data>
+    </edge>
+    <edge source="genus:Aequorivita" target="genus:Halobacteroides">
+      <data key="d1">0.729788584800243</data>
+    </edge>
+    <edge source="genus:Areca" target="genus:Defluviitalea">
+      <data key="d1">0.72486742690262</data>
+    </edge>
+    <edge source="genus:Areca" target="genus:Halobacteroides">
+      <data key="d1">0.70643148851519</data>
+    </edge>
+    <edge source="genus:Gemmatirosa" target="genus:Fidelibacter">
+      <data key="d1">0.708444256204309</data>
+    </edge>
+    <edge source="genus:Gemmatirosa" target="genus:Halobacteroides">
+      <data key="d1">0.706968098497016</data>
+    </edge>
+    <edge source="genus:Aeribacillus" target="genus:Amphritea">
+      <data key="d1">0.714987988700152</data>
+    </edge>
+    <edge source="genus:Aeribacillus" target="genus:Aquicoccus">
+      <data key="d1">0.708030899224769</data>
+    </edge>
+    <edge source="genus:Aeribacillus" target="genus:Azobacteroides">
+      <data key="d1">0.711097096156942</data>
+    </edge>
+    <edge source="genus:Aeribacillus" target="genus:Deefgea">
+      <data key="d1">0.712315992557246</data>
+    </edge>
+    <edge source="genus:Aeribacillus" target="genus:Fibrisoma">
+      <data key="d1">0.716608426936812</data>
+    </edge>
+    <edge source="genus:Amphritea" target="genus:Allosaccharopolyspora">
+      <data key="d1">0.700943522946047</data>
+    </edge>
+    <edge source="genus:Amphritea" target="genus:Aquicoccus">
+      <data key="d1">0.719603048722658</data>
+    </edge>
+    <edge source="genus:Amphritea" target="genus:Azobacteroides">
+      <data key="d1">0.726852514476868</data>
+    </edge>
+    <edge source="genus:Amphritea" target="genus:Brachybacterium">
+      <data key="d1">0.701342956391162</data>
+    </edge>
+    <edge source="genus:Amphritea" target="genus:Deefgea">
+      <data key="d1">0.727715672043543</data>
+    </edge>
+    <edge source="genus:Amphritea" target="genus:Fibrisoma">
+      <data key="d1">0.716710353465716</data>
+    </edge>
+    <edge source="genus:Amphritea" target="genus:Haloferula">
+      <data key="d1">0.701185189737861</data>
+    </edge>
+    <edge source="genus:Aquicoccus" target="genus:Azobacteroides">
+      <data key="d1">0.722824124217047</data>
+    </edge>
+    <edge source="genus:Aquicoccus" target="genus:Brachybacterium">
+      <data key="d1">0.704474133256069</data>
+    </edge>
+    <edge source="genus:Aquicoccus" target="genus:Deefgea">
+      <data key="d1">0.719536584995737</data>
+    </edge>
+    <edge source="genus:Azobacteroides" target="genus:Deefgea">
+      <data key="d1">0.729989887082784</data>
+    </edge>
+    <edge source="genus:Azobacteroides" target="genus:Fibrisoma">
+      <data key="d1">0.714302145020644</data>
+    </edge>
+    <edge source="genus:Deefgea" target="genus:Allosaccharopolyspora">
+      <data key="d1">0.702514076971176</data>
+    </edge>
+    <edge source="genus:Deefgea" target="genus:Fibrisoma">
+      <data key="d1">0.723503057544517</data>
+    </edge>
+    <edge source="genus:Fibrisoma" target="genus:Allosaccharopolyspora">
+      <data key="d1">0.701726663951132</data>
+    </edge>
+    <edge source="genus:Agarivorans" target="genus:Aquifex">
+      <data key="d1">0.716775970108599</data>
+    </edge>
+    <edge source="genus:Agarivorans" target="genus:Chthonomonas">
+      <data key="d1">0.714095758106623</data>
+    </edge>
+    <edge source="genus:Aquifex" target="genus:Chthonomonas">
+      <data key="d1">0.716834867445843</data>
+    </edge>
+    <edge source="genus:Anaerohalosphaera" target="genus:Anaerolinea">
+      <data key="d1">0.735272696134114</data>
+    </edge>
+    <edge source="genus:Anaerohalosphaera" target="genus:Aureimonas">
+      <data key="d1">0.728083414230266</data>
+    </edge>
+    <edge source="genus:Anaerohalosphaera" target="genus:Chelativorans">
+      <data key="d1">0.70990476712647</data>
+    </edge>
+    <edge source="genus:Anaerohalosphaera" target="genus:Clavibacter">
+      <data key="d1">0.723838943195066</data>
+    </edge>
+    <edge source="genus:Anaerohalosphaera" target="genus:Falsihalocynthiibacter">
+      <data key="d1">0.701617500908202</data>
+    </edge>
+    <edge source="genus:Anaerohalosphaera" target="genus:Haloferax">
+      <data key="d1">0.702290481509757</data>
+    </edge>
+    <edge source="genus:Anaerohalosphaera" target="genus:Halopseudomonas">
+      <data key="d1">0.715983031467235</data>
+    </edge>
+    <edge source="genus:Anaerolinea" target="genus:Chelativorans">
+      <data key="d1">0.701969956142571</data>
+    </edge>
+    <edge source="genus:Anaerolinea" target="genus:Hafnia">
+      <data key="d1">0.70230195633666</data>
+    </edge>
+    <edge source="genus:Anaerolinea" target="genus:Haloferax">
+      <data key="d1">0.715928937541542</data>
+    </edge>
+    <edge source="genus:Anaerolinea" target="genus:Halopseudomonas">
+      <data key="d1">0.733905882294102</data>
+    </edge>
+    <edge source="genus:Diachasmimorpha" target="genus:Azorhizophilus">
+      <data key="d1">0.705943841017252</data>
+    </edge>
+    <edge source="genus:Egbenema" target="genus:Azorhizophilus">
+      <data key="d1">0.702046819474265</data>
+    </edge>
+    <edge source="genus:Egbenema" target="genus:Chelativorans">
+      <data key="d1">0.701452306247719</data>
+    </edge>
+    <edge source="genus:Egbenema" target="genus:Endoriftia">
+      <data key="d1">0.70802703342766</data>
+    </edge>
+    <edge source="genus:Egbenema" target="genus:Gloeobacter">
+      <data key="d1">0.710660032259601</data>
+    </edge>
+    <edge source="genus:Egbenema" target="genus:Granulicatella">
+      <data key="d1">0.727343944734291</data>
+    </edge>
+    <edge source="genus:Egbenema" target="genus:Haloferax">
+      <data key="d1">0.708455135534646</data>
+    </edge>
+    <edge source="genus:Granulicatella" target="genus:Azorhizophilus">
+      <data key="d1">0.724130571211801</data>
+    </edge>
+    <edge source="genus:Granulicatella" target="genus:Ensifer">
+      <data key="d1">0.703140321578943</data>
+    </edge>
+    <edge source="genus:Granulicatella" target="genus:Haloferax">
+      <data key="d1">0.712097506336208</data>
+    </edge>
+    <edge source="genus:Hafnia" target="genus:Caldithrix">
+      <data key="d1">0.702242937236199</data>
+    </edge>
+    <edge source="genus:Hafnia" target="genus:Falsihalocynthiibacter">
+      <data key="d1">0.730039428145831</data>
+    </edge>
+    <edge source="genus:Hafnia" target="genus:Haloferax">
+      <data key="d1">0.730873989201988</data>
+    </edge>
+    <edge source="genus:Hafnia" target="genus:Halopseudomonas">
+      <data key="d1">0.725885295018697</data>
+    </edge>
+    <edge source="genus:Haloferax" target="genus:Falsihalocynthiibacter">
+      <data key="d1">0.716214119521669</data>
+    </edge>
+    <edge source="genus:Haloferax" target="genus:Halopseudomonas">
+      <data key="d1">0.757399920260247</data>
+    </edge>
+    <edge source="genus:Halopseudomonas" target="genus:Falsihalocynthiibacter">
+      <data key="d1">0.710580468825048</data>
+    </edge>
+    <edge source="genus:Alkalicoccus" target="genus:Altericista">
+      <data key="d1">0.70041971220949</data>
+    </edge>
+    <edge source="genus:Alkalicoccus" target="genus:Anderseniella">
+      <data key="d1">0.710991248190486</data>
+    </edge>
+    <edge source="genus:Alkalicoccus" target="genus:Cardiobacterium">
+      <data key="d1">0.700670066350594</data>
+    </edge>
+    <edge source="genus:Alkalicoccus" target="genus:Clavibacter">
+      <data key="d1">0.702421587294344</data>
+    </edge>
+    <edge source="genus:Altericista" target="genus:Chryseolinea">
+      <data key="d1">0.710458374897921</data>
+    </edge>
+    <edge source="genus:Anderseniella" target="genus:Cardiobacterium">
+      <data key="d1">0.705106592352526</data>
+    </edge>
+    <edge source="genus:Cardiobacterium" target="genus:Caldibacillus">
+      <data key="d1">0.714431884289942</data>
+    </edge>
+    <edge source="genus:Cardiobacterium" target="genus:Fohxhuevirus">
+      <data key="d1">0.717843186569519</data>
+    </edge>
+    <edge source="genus:Cardiobacterium" target="genus:Halosolutus">
+      <data key="d1">0.707626976700965</data>
+    </edge>
+    <edge source="genus:Clavibacter" target="genus:Caldibacillus">
+      <data key="d1">0.72347376417591</data>
+    </edge>
+    <edge source="genus:Clavibacter" target="genus:Chloracidobacterium">
+      <data key="d1">0.70740132787174</data>
+    </edge>
+    <edge source="genus:Clavibacter" target="genus:Chryseolinea">
+      <data key="d1">0.711660142427766</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Aurantimonas">
+      <data key="d1">0.706438334119715</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Brasilonema">
+      <data key="d1">0.713534957712973</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Brettanomyces">
+      <data key="d1">0.70883873726049</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Caldithrix">
+      <data key="d1">0.708316225928882</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Caproiciproducens">
+      <data key="d1">0.734342650336826</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Croceibacterium">
+      <data key="d1">0.722218514890214</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Fontisphaera">
+      <data key="d1">0.709544787613226</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Fontisubflavum">
+      <data key="d1">0.716171077533702</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Frigoriglobus">
+      <data key="d1">0.751387761629211</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Frischella">
+      <data key="d1">0.712776688828084</data>
+    </edge>
+    <edge source="genus:Alloalcanivorax" target="genus:Glaucusvirus">
+      <data key="d1">0.703039755401472</data>
+    </edge>
+    <edge source="genus:Aurantimonas" target="genus:Caproiciproducens">
+      <data key="d1">0.710207152294103</data>
+    </edge>
+    <edge source="genus:Aurantimonas" target="genus:Croceibacterium">
+      <data key="d1">0.714913992247252</data>
+    </edge>
+    <edge source="genus:Aurantimonas" target="genus:Frischella">
+      <data key="d1">0.712564131396794</data>
+    </edge>
+    <edge source="genus:Brasilonema" target="genus:Caldifermentibacillus">
+      <data key="d1">0.747284616878592</data>
+    </edge>
+    <edge source="genus:Brasilonema" target="genus:Caldithrix">
+      <data key="d1">0.761149475808944</data>
+    </edge>
+    <edge source="genus:Brasilonema" target="genus:Croceibacterium">
+      <data key="d1">0.76073531981483</data>
+    </edge>
+    <edge source="genus:Brasilonema" target="genus:Cruoricaptor">
+      <data key="d1">0.736651512252141</data>
+    </edge>
+    <edge source="genus:Brasilonema" target="genus:Fontisphaera">
+      <data key="d1">0.729069524672883</data>
+    </edge>
+    <edge source="genus:Brasilonema" target="genus:Fontisubflavum">
+      <data key="d1">0.758820697642623</data>
+    </edge>
+    <edge source="genus:Brasilonema" target="genus:Frigoriglobus">
+      <data key="d1">0.72491934422134</data>
+    </edge>
+    <edge source="genus:Brasilonema" target="genus:Guyparkeria">
+      <data key="d1">0.745393063266078</data>
+    </edge>
+    <edge source="genus:Brasilonema" target="genus:Harrisonburgvirus">
+      <data key="d1">0.72546538580513</data>
+    </edge>
+    <edge source="genus:Brettanomyces" target="genus:Capillimicrobium">
+      <data key="d1">0.710901456791362</data>
+    </edge>
+    <edge source="genus:Brettanomyces" target="genus:Caproiciproducens">
+      <data key="d1">0.728818939958257</data>
+    </edge>
+    <edge source="genus:Brettanomyces" target="genus:Frigoriglobus">
+      <data key="d1">0.708617205274863</data>
+    </edge>
+    <edge source="genus:Brettanomyces" target="genus:Frischella">
+      <data key="d1">0.710597531549374</data>
+    </edge>
+    <edge source="genus:Brettanomyces" target="genus:Glaucusvirus">
+      <data key="d1">0.712896033223034</data>
+    </edge>
+    <edge source="genus:Brettanomyces" target="genus:Halovenus">
+      <data key="d1">0.723264779699044</data>
+    </edge>
+    <edge source="genus:Caldithrix" target="genus:Caldifermentibacillus">
+      <data key="d1">0.738483723415179</data>
+    </edge>
+    <edge source="genus:Caldithrix" target="genus:Croceibacterium">
+      <data key="d1">0.773136418673072</data>
+    </edge>
+    <edge source="genus:Caldithrix" target="genus:Cruoricaptor">
+      <data key="d1">0.750757831521843</data>
+    </edge>
+    <edge source="genus:Caldithrix" target="genus:Fontisphaera">
+      <data key="d1">0.736800427943516</data>
+    </edge>
+    <edge source="genus:Caldithrix" target="genus:Fontisubflavum">
+      <data key="d1">0.740459199904673</data>
+    </edge>
+    <edge source="genus:Caldithrix" target="genus:Frigoriglobus">
+      <data key="d1">0.711320772077296</data>
+    </edge>
+    <edge source="genus:Caldithrix" target="genus:Guyparkeria">
+      <data key="d1">0.745551663997369</data>
+    </edge>
+    <edge source="genus:Caldithrix" target="genus:Harrisonburgvirus">
+      <data key="d1">0.72219996325035</data>
+    </edge>
+    <edge source="genus:Caproiciproducens" target="genus:Capillimicrobium">
+      <data key="d1">0.700442349550979</data>
+    </edge>
+    <edge source="genus:Caproiciproducens" target="genus:Croceibacterium">
+      <data key="d1">0.705186769853484</data>
+    </edge>
+    <edge source="genus:Caproiciproducens" target="genus:Frigoriglobus">
+      <data key="d1">0.728016190468154</data>
+    </edge>
+    <edge source="genus:Caproiciproducens" target="genus:Frischella">
+      <data key="d1">0.700592109428072</data>
+    </edge>
+    <edge source="genus:Caproiciproducens" target="genus:Glaucusvirus">
+      <data key="d1">0.720474256867516</data>
+    </edge>
+    <edge source="genus:Croceibacterium" target="genus:Caldifermentibacillus">
+      <data key="d1">0.730016507559733</data>
+    </edge>
+    <edge source="genus:Croceibacterium" target="genus:Cruoricaptor">
+      <data key="d1">0.735589328869773</data>
+    </edge>
+    <edge source="genus:Croceibacterium" target="genus:Fontisphaera">
+      <data key="d1">0.738052007467266</data>
+    </edge>
+    <edge source="genus:Croceibacterium" target="genus:Fontisubflavum">
+      <data key="d1">0.750939602246948</data>
+    </edge>
+    <edge source="genus:Croceibacterium" target="genus:Frigoriglobus">
+      <data key="d1">0.727429736391593</data>
+    </edge>
+    <edge source="genus:Croceibacterium" target="genus:Guyparkeria">
+      <data key="d1">0.746833634921299</data>
+    </edge>
+    <edge source="genus:Croceibacterium" target="genus:Harrisonburgvirus">
+      <data key="d1">0.716903614558176</data>
+    </edge>
+    <edge source="genus:Fontisphaera" target="genus:Caldifermentibacillus">
+      <data key="d1">0.722201098751764</data>
+    </edge>
+    <edge source="genus:Fontisphaera" target="genus:Cruoricaptor">
+      <data key="d1">0.733298879766066</data>
+    </edge>
+    <edge source="genus:Fontisphaera" target="genus:Fontisubflavum">
+      <data key="d1">0.733112743628226</data>
+    </edge>
+    <edge source="genus:Fontisphaera" target="genus:Frigoriglobus">
+      <data key="d1">0.711032140587157</data>
+    </edge>
+    <edge source="genus:Fontisphaera" target="genus:Guyparkeria">
+      <data key="d1">0.720779734468715</data>
+    </edge>
+    <edge source="genus:Fontisubflavum" target="genus:Caldifermentibacillus">
+      <data key="d1">0.730289627284785</data>
+    </edge>
+    <edge source="genus:Fontisubflavum" target="genus:Cruoricaptor">
+      <data key="d1">0.718669862289381</data>
+    </edge>
+    <edge source="genus:Fontisubflavum" target="genus:Frigoriglobus">
+      <data key="d1">0.720894658033472</data>
+    </edge>
+    <edge source="genus:Fontisubflavum" target="genus:Guyparkeria">
+      <data key="d1">0.732132624681543</data>
+    </edge>
+    <edge source="genus:Frigoriglobus" target="genus:Frischella">
+      <data key="d1">0.723547387269955</data>
+    </edge>
+    <edge source="genus:Frigoriglobus" target="genus:Glaucusvirus">
+      <data key="d1">0.711773148207602</data>
+    </edge>
+    <edge source="genus:Frigoriglobus" target="genus:Harrisonburgvirus">
+      <data key="d1">0.712718128575865</data>
+    </edge>
+    <edge source="genus:Frischella" target="genus:Capillimicrobium">
+      <data key="d1">0.730189847462547</data>
+    </edge>
+    <edge source="genus:Frischella" target="genus:Falsihalocynthiibacter">
+      <data key="d1">0.719658335724518</data>
+    </edge>
+    <edge source="genus:Frischella" target="genus:Glaucusvirus">
+      <data key="d1">0.738360113278009</data>
+    </edge>
+    <edge source="genus:Frischella" target="genus:Halovenus">
+      <data key="d1">0.701346317128311</data>
+    </edge>
+    <edge source="genus:Glaucusvirus" target="genus:Antiquaquibacter">
+      <data key="d1">0.707544731136467</data>
+    </edge>
+    <edge source="genus:Glaucusvirus" target="genus:Capillimicrobium">
+      <data key="d1">0.757328793546952</data>
+    </edge>
+    <edge source="genus:Glaucusvirus" target="genus:Halovenus">
+      <data key="d1">0.721057414575991</data>
+    </edge>
+    <edge source="genus:Allosaccharopolyspora" target="genus:Fidelibacter">
+      <data key="d1">0.7272821054811</data>
+    </edge>
+    <edge source="genus:Allosaccharopolyspora" target="genus:Haloferula">
+      <data key="d1">0.721102770131711</data>
+    </edge>
+    <edge source="genus:Fidelibacter" target="genus:Haloferula">
+      <data key="d1">0.710191195620937</data>
+    </edge>
+    <edge source="genus:Azorhizophilus" target="genus:Catalinimonas">
+      <data key="d1">0.70843031790125</data>
+    </edge>
+    <edge source="genus:Azorhizophilus" target="genus:Chelativorans">
+      <data key="d1">0.703494063616184</data>
+    </edge>
+    <edge source="genus:Azorhizophilus" target="genus:Endoriftia">
+      <data key="d1">0.707050813257348</data>
+    </edge>
+    <edge source="genus:Azorhizophilus" target="genus:Ensifer">
+      <data key="d1">0.712486318672346</data>
+    </edge>
+    <edge source="genus:Endoriftia" target="genus:Chelativorans">
+      <data key="d1">0.711591462616832</data>
+    </edge>
+    <edge source="genus:Caldifermentibacillus" target="genus:Cruoricaptor">
+      <data key="d1">0.748357043505521</data>
+    </edge>
+    <edge source="genus:Caldifermentibacillus" target="genus:Guyparkeria">
+      <data key="d1">0.742751331505803</data>
+    </edge>
+    <edge source="genus:Caldifermentibacillus" target="genus:Harrisonburgvirus">
+      <data key="d1">0.714156610022226</data>
+    </edge>
+    <edge source="genus:Cruoricaptor" target="genus:Guyparkeria">
+      <data key="d1">0.743462864579014</data>
+    </edge>
+    <edge source="genus:Guyparkeria" target="genus:Harrisonburgvirus">
+      <data key="d1">0.70080010199025</data>
+    </edge>
+    <edge source="genus:Chelativorans" target="genus:Aquiflexum">
+      <data key="d1">0.717423040445091</data>
+    </edge>
+    <edge source="genus:Chelativorans" target="genus:Caldibacillus">
+      <data key="d1">0.720527903972604</data>
+    </edge>
+    <edge source="genus:Antiquaquibacter" target="genus:Aquabacterium">
+      <data key="d1">0.727791505866235</data>
+    </edge>
+    <edge source="genus:Antiquaquibacter" target="genus:Capillimicrobium">
+      <data key="d1">0.71788197407217</data>
+    </edge>
+    <edge source="genus:Antiquaquibacter" target="genus:Chondrinema">
+      <data key="d1">0.73088327639087</data>
+    </edge>
+    <edge source="genus:Antiquaquibacter" target="genus:Erysipelatoclostridium">
+      <data key="d1">0.720623862054528</data>
+    </edge>
+    <edge source="genus:Antiquaquibacter" target="genus:Faecalimonas">
+      <data key="d1">0.744852233764177</data>
+    </edge>
+    <edge source="genus:Antiquaquibacter" target="genus:Halorarius">
+      <data key="d1">0.737155040231762</data>
+    </edge>
+    <edge source="genus:Aquabacterium" target="genus:Chondrinema">
+      <data key="d1">0.70836515051722</data>
+    </edge>
+    <edge source="genus:Aquabacterium" target="genus:Faecalimonas">
+      <data key="d1">0.718156078826851</data>
+    </edge>
+    <edge source="genus:Aquabacterium" target="genus:Halorarius">
+      <data key="d1">0.759110098322147</data>
+    </edge>
+    <edge source="genus:Capillimicrobium" target="genus:Chondrinema">
+      <data key="d1">0.711400302556881</data>
+    </edge>
+    <edge source="genus:Capillimicrobium" target="genus:Erysipelatoclostridium">
+      <data key="d1">0.711268730116262</data>
+    </edge>
+    <edge source="genus:Capillimicrobium" target="genus:Faecalimonas">
+      <data key="d1">0.704754313768732</data>
+    </edge>
+    <edge source="genus:Capillimicrobium" target="genus:Halorarius">
+      <data key="d1">0.711216993819976</data>
+    </edge>
+    <edge source="genus:Capillimicrobium" target="genus:Halovenus">
+      <data key="d1">0.71783243665025</data>
+    </edge>
+    <edge source="genus:Chondrinema" target="genus:Erysipelatoclostridium">
+      <data key="d1">0.761157354618468</data>
+    </edge>
+    <edge source="genus:Chondrinema" target="genus:Faecalimonas">
+      <data key="d1">0.750041496547557</data>
+    </edge>
+    <edge source="genus:Chondrinema" target="genus:Halorarius">
+      <data key="d1">0.72461732777788</data>
+    </edge>
+    <edge source="genus:Erysipelatoclostridium" target="genus:Faecalimonas">
+      <data key="d1">0.737327094501626</data>
+    </edge>
+    <edge source="genus:Erysipelatoclostridium" target="genus:Halorarius">
+      <data key="d1">0.713446522650817</data>
+    </edge>
+    <edge source="genus:Faecalimonas" target="genus:Halorarius">
+      <data key="d1">0.73327960803697</data>
+    </edge>
+    <edge source="genus:Aquiflexum" target="genus:Chloracidobacterium">
+      <data key="d1">0.700437811761631</data>
+    </edge>
+    <edge source="genus:Aquiflexum" target="genus:Citrobacter">
+      <data key="d1">0.707893670017615</data>
+    </edge>
+    <edge source="genus:Aquiflexum" target="genus:Cryptococcus">
+      <data key="d1">0.709365192370099</data>
+    </edge>
+    <edge source="genus:Aquiflexum" target="genus:Curvibacter">
+      <data key="d1">0.702911635597836</data>
+    </edge>
+    <edge source="genus:Chloracidobacterium" target="genus:Cryptococcus">
+      <data key="d1">0.713614251042468</data>
+    </edge>
+    <edge source="genus:Chloracidobacterium" target="genus:Curvibacter">
+      <data key="d1">0.716023276818406</data>
+    </edge>
+    <edge source="genus:Citrobacter" target="genus:Cryptococcus">
+      <data key="d1">0.72017202007085</data>
+    </edge>
+    <edge source="genus:Cryptococcus" target="genus:Curvibacter">
+      <data key="d1">0.729768583899136</data>
+    </edge>
+    <edge source="genus:Arenibacterium" target="genus:Faecalibacillus">
+      <data key="d1">0.72326687532655</data>
+    </edge>
+    <edge source="genus:Arenibacterium" target="genus:Halarcobacter">
+      <data key="d1">0.723024939848036</data>
+    </edge>
+    <edge source="genus:Faecalibacillus" target="genus:Halarcobacter">
+      <data key="d1">0.72599218684503</data>
+    </edge>
+    <edge source="genus:Catalinimonas" target="genus:Ensifer">
+      <data key="d1">0.703611437659091</data>
+    </edge>
+    <edge source="genus:Fohxhuevirus" target="genus:Chlorovirus">
+      <data key="d1">0.70149632596845</data>
+    </edge>
+    <edge source="genus:Fohxhuevirus" target="genus:Geothrix">
+      <data key="d1">0.703575026630264</data>
+    </edge>
+    <edge source="genus:Fohxhuevirus" target="genus:Halomicronema">
+      <data key="d1">0.700857549624111</data>
+    </edge>
+    <edge source="genus:Fohxhuevirus" target="genus:Halosolutus">
+      <data key="d1">0.706855171877654</data>
+    </edge>
+    <edge source="genus:Cardinium" target="genus:Desulfurobacterium">
+      <data key="d1">0.703453623863099</data>
+    </edge>
+    <edge source="genus:Cardinium" target="genus:Emcibacter">
+      <data key="d1">0.704848851700268</data>
+    </edge>
+    <edge source="genus:Catenulispora" target="genus:Chenggangzhangella">
+      <data key="d1">0.713056060330215</data>
+    </edge>
+    <edge source="genus:Catenulispora" target="genus:Desulfurobacterium">
+      <data key="d1">0.70818751136337</data>
+    </edge>
+    <edge source="genus:Chenggangzhangella" target="genus:Desulfurobacterium">
+      <data key="d1">0.72668130742063</data>
+    </edge>
+    <edge source="genus:Desulfurobacterium" target="genus:Emcibacter">
+      <data key="d1">0.707831158326023</data>
+    </edge>
+    <edge source="genus:Halosolutus" target="genus:Geothrix">
+      <data key="d1">0.708393598142441</data>
+    </edge>
+    <edge source="genus:Halosolutus" target="genus:Halomicronema">
+      <data key="d1">0.70122998307587</data>
+    </edge>
+    <edge source="genus:Chlorovirus" target="genus:Geothrix">
+      <data key="d1">0.745629900787577</data>
+    </edge>
+    <edge source="species:Streptomyces spongiicola" target="species:Streptomyces lavendulae">
+      <data key="d1">0.660770955478512</data>
+    </edge>
+    <edge source="species:Streptomyces spongiicola" target="species:Streptomyces cinnabarinus">
+      <data key="d1">0.667604431913959</data>
+    </edge>
+    <edge source="species:Streptomyces spongiicola" target="species:Streptomyces viridosporus">
+      <data key="d1">0.656697873445303</data>
+    </edge>
+    <edge source="species:Streptomyces lavendulae" target="species:Streptomyces tanashiensis">
+      <data key="d1">0.666796135073131</data>
+    </edge>
+    <edge source="species:Streptomyces lavendulae" target="species:Streptomyces cinnabarinus">
+      <data key="d1">0.658820186325902</data>
+    </edge>
+    <edge source="species:Streptomyces lavendulae" target="species:Streptomyces viridosporus">
+      <data key="d1">0.663630942546149</data>
+    </edge>
+    <edge source="species:Streptomyces viridosporus" target="species:Streptomyces vilmorinianum">
+      <data key="d1">0.664048914120096</data>
+    </edge>
+    <edge source="species:Streptomyces viridosporus" target="species:Streptomyces argyrophylli">
+      <data key="d1">0.666599496192429</data>
+    </edge>
+    <edge source="species:Streptomyces viridosporus" target="species:Streptomyces tanashiensis">
+      <data key="d1">0.666184592908496</data>
+    </edge>
+    <edge source="species:Streptomyces incarnatus" target="species:Streptomyces vilmorinianum">
+      <data key="d1">0.656908172774</data>
+    </edge>
+    <edge source="species:Streptomyces incarnatus" target="species:Streptomyces okerensis">
+      <data key="d1">0.656696055153745</data>
+    </edge>
+    <edge source="species:Streptomyces vilmorinianum" target="species:Streptomyces okerensis">
+      <data key="d1">0.65166413817698</data>
+    </edge>
+    <edge source="species:Streptomyces vilmorinianum" target="species:Streptomyces argyrophylli">
+      <data key="d1">0.668814080922109</data>
+    </edge>
+    <edge source="species:Streptomyces vilmorinianum" target="species:Streptomyces tanashiensis">
+      <data key="d1">0.669483448205799</data>
+    </edge>
+    <edge source="species:Streptomyces okerensis" target="species:Streptomyces argyrophylli">
+      <data key="d1">0.653504034893368</data>
+    </edge>
+    <edge source="species:Streptomyces argyrophylli" target="species:Streptomyces tanashiensis">
+      <data key="d1">0.662036251922856</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces libani">
+      <data key="d1">0.675406301114035</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces autolyticus">
+      <data key="d1">0.675346252790539</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces yunnanensis">
+      <data key="d1">0.676829661764691</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces cinereoruber">
+      <data key="d1">0.650523091274241</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces spinosirectus">
+      <data key="d1">0.673217206372654</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces lienomycini">
+      <data key="d1">0.656468927033331</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces cellulosae">
+      <data key="d1">0.668803885333078</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces rubrolavendulae">
+      <data key="d1">0.676677192327444</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces scabiei">
+      <data key="d1">0.663615880612126</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces glycanivorans">
+      <data key="d1">0.671238594766135</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces exfoliatus">
+      <data key="d1">0.666205643469759</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptomyces zhihengii">
+      <data key="d1">0.665545404075003</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.665147466797448</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.674953368997165</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Microbispora hainanensis">
+      <data key="d1">0.666609787484903</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Microbispora maris">
+      <data key="d1">0.656159027118846</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Microbispora sp. NBC_01189">
+      <data key="d1">0.650681794687036</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptosporangium sp. NBC_01469">
+      <data key="d1">0.65344266529387</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Streptosporangium sp. NBC_01755">
+      <data key="d1">0.651357570980763</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Bifidobacterium sp. ESL0682">
+      <data key="d1">0.652142311934222</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Lactococcus sp.">
+      <data key="d1">0.653152775544807</data>
+    </edge>
+    <edge source="species:Streptomyces poriferorum" target="species:Staphylococcus hyicus">
+      <data key="d1">0.662271926932934</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces autolyticus">
+      <data key="d1">0.672867658752948</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces yunnanensis">
+      <data key="d1">0.67806859916965</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces cinereoruber">
+      <data key="d1">0.663784874633436</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces spinosirectus">
+      <data key="d1">0.665694013785427</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces lienomycini">
+      <data key="d1">0.651215137092275</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces cellulosae">
+      <data key="d1">0.671934276977996</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces rubrolavendulae">
+      <data key="d1">0.671879713260009</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces scabiei">
+      <data key="d1">0.654557004841289</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces glycanivorans">
+      <data key="d1">0.663979899006524</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces exfoliatus">
+      <data key="d1">0.667058716972165</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Streptomyces zhihengii">
+      <data key="d1">0.659083539131697</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.673162218043935</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Microbispora hainanensis">
+      <data key="d1">0.657931172417643</data>
+    </edge>
+    <edge source="species:Streptomyces libani" target="species:Staphylococcus hyicus">
+      <data key="d1">0.660173406678502</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptomyces yunnanensis">
+      <data key="d1">0.673621754680703</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptomyces cinereoruber">
+      <data key="d1">0.660697037021377</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptomyces spinosirectus">
+      <data key="d1">0.66949388623728</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptomyces lienomycini">
+      <data key="d1">0.666018219195534</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptomyces cellulosae">
+      <data key="d1">0.674542472533138</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptomyces rubrolavendulae">
+      <data key="d1">0.667424809174222</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptomyces scabiei">
+      <data key="d1">0.65386009076639</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptomyces glycanivorans">
+      <data key="d1">0.659069674349099</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptomyces exfoliatus">
+      <data key="d1">0.663214113233919</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptomyces zhihengii">
+      <data key="d1">0.657718997635539</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.660861093363851</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.672682711484804</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Microbispora hainanensis">
+      <data key="d1">0.656116566164574</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Microbispora maris">
+      <data key="d1">0.65287830567883</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Streptosporangium sp. NBC_01469">
+      <data key="d1">0.650137672330705</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Staphylococcus hyicus">
+      <data key="d1">0.66895668928824</data>
+    </edge>
+    <edge source="species:Streptomyces autolyticus" target="species:Staphylococcus pasteuri">
+      <data key="d1">0.652152401776591</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Streptomyces cinereoruber">
+      <data key="d1">0.662029825646501</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Streptomyces spinosirectus">
+      <data key="d1">0.665971960712913</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Streptomyces lienomycini">
+      <data key="d1">0.656171618309419</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Streptomyces cellulosae">
+      <data key="d1">0.666769730781034</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Streptomyces rubrolavendulae">
+      <data key="d1">0.671626365285777</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Streptomyces scabiei">
+      <data key="d1">0.658534140622689</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Streptomyces glycanivorans">
+      <data key="d1">0.670578244342487</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Streptomyces exfoliatus">
+      <data key="d1">0.670170969484209</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Streptomyces zhihengii">
+      <data key="d1">0.663037949625142</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.65834770809052</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.672469807431769</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Microbispora hainanensis">
+      <data key="d1">0.66078224620943</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Lactococcus sp.">
+      <data key="d1">0.651877840629524</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Staphylococcus hyicus">
+      <data key="d1">0.660773487011621</data>
+    </edge>
+    <edge source="species:Streptomyces yunnanensis" target="species:Staphylococcus pasteuri">
+      <data key="d1">0.655089954472384</data>
+    </edge>
+    <edge source="species:Streptomyces cinereoruber" target="species:Streptomyces cellulosae">
+      <data key="d1">0.652367614226635</data>
+    </edge>
+    <edge source="species:Streptomyces cinereoruber" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.651156872911922</data>
+    </edge>
+    <edge source="species:Streptomyces cinereoruber" target="species:Staphylococcus hyicus">
+      <data key="d1">0.652638836826195</data>
+    </edge>
+    <edge source="species:Streptomyces spinosirectus" target="species:Streptomyces cellulosae">
+      <data key="d1">0.665187794402395</data>
+    </edge>
+    <edge source="species:Streptomyces spinosirectus" target="species:Streptomyces rubrolavendulae">
+      <data key="d1">0.670528177644139</data>
+    </edge>
+    <edge source="species:Streptomyces spinosirectus" target="species:Streptomyces scabiei">
+      <data key="d1">0.662299483857135</data>
+    </edge>
+    <edge source="species:Streptomyces spinosirectus" target="species:Streptomyces glycanivorans">
+      <data key="d1">0.66635710654433</data>
+    </edge>
+    <edge source="species:Streptomyces spinosirectus" target="species:Streptomyces exfoliatus">
+      <data key="d1">0.66055587151345</data>
+    </edge>
+    <edge source="species:Streptomyces spinosirectus" target="species:Streptomyces zhihengii">
+      <data key="d1">0.660908943095182</data>
+    </edge>
+    <edge source="species:Streptomyces spinosirectus" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.654945484652393</data>
+    </edge>
+    <edge source="species:Streptomyces spinosirectus" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.674003151478744</data>
+    </edge>
+    <edge source="species:Streptomyces spinosirectus" target="species:Lactococcus sp.">
+      <data key="d1">0.654748967838968</data>
+    </edge>
+    <edge source="species:Streptomyces spinosirectus" target="species:Staphylococcus hyicus">
+      <data key="d1">0.659971966080779</data>
+    </edge>
+    <edge source="species:Streptomyces lienomycini" target="species:Streptomyces cellulosae">
+      <data key="d1">0.664717539090815</data>
+    </edge>
+    <edge source="species:Streptomyces lienomycini" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.657093079409797</data>
+    </edge>
+    <edge source="species:Streptomyces lienomycini" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.652788874358749</data>
+    </edge>
+    <edge source="species:Streptomyces lienomycini" target="species:Staphylococcus hyicus">
+      <data key="d1">0.658526926630827</data>
+    </edge>
+    <edge source="species:Streptomyces cellulosae" target="species:Streptomyces rubrolavendulae">
+      <data key="d1">0.664594963996335</data>
+    </edge>
+    <edge source="species:Streptomyces cellulosae" target="species:Streptomyces scabiei">
+      <data key="d1">0.655612949167438</data>
+    </edge>
+    <edge source="species:Streptomyces cellulosae" target="species:Streptomyces glycanivorans">
+      <data key="d1">0.654474844461064</data>
+    </edge>
+    <edge source="species:Streptomyces cellulosae" target="species:Streptomyces exfoliatus">
+      <data key="d1">0.660464488673654</data>
+    </edge>
+    <edge source="species:Streptomyces cellulosae" target="species:Streptomyces zhihengii">
+      <data key="d1">0.655454012148589</data>
+    </edge>
+    <edge source="species:Streptomyces cellulosae" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.653368094503318</data>
+    </edge>
+    <edge source="species:Streptomyces cellulosae" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.66385810405898</data>
+    </edge>
+    <edge source="species:Streptomyces cellulosae" target="species:Microbispora hainanensis">
+      <data key="d1">0.655519224385829</data>
+    </edge>
+    <edge source="species:Streptomyces cellulosae" target="species:Microbispora maris">
+      <data key="d1">0.650264810245482</data>
+    </edge>
+    <edge source="species:Streptomyces cellulosae" target="species:Staphylococcus hyicus">
+      <data key="d1">0.666382823938042</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Streptomyces scabiei">
+      <data key="d1">0.663168776247454</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Streptomyces glycanivorans">
+      <data key="d1">0.670453759264139</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Streptomyces exfoliatus">
+      <data key="d1">0.663038633259808</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Streptomyces zhihengii">
+      <data key="d1">0.66485620485387</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.660001148331081</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.671241614561148</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Microbispora hainanensis">
+      <data key="d1">0.668228437989177</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Microbispora maris">
+      <data key="d1">0.654157095590539</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Streptosporangium sp. NBC_01469">
+      <data key="d1">0.651827647471225</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Bifidobacterium sp. ESL0682">
+      <data key="d1">0.650608350546529</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Lactococcus sp.">
+      <data key="d1">0.654219662666916</data>
+    </edge>
+    <edge source="species:Streptomyces rubrolavendulae" target="species:Staphylococcus hyicus">
+      <data key="d1">0.658729107774242</data>
+    </edge>
+    <edge source="species:Streptomyces scabiei" target="species:Streptomyces glycanivorans">
+      <data key="d1">0.665795187552033</data>
+    </edge>
+    <edge source="species:Streptomyces scabiei" target="species:Streptomyces zhihengii">
+      <data key="d1">0.652405997975838</data>
+    </edge>
+    <edge source="species:Streptomyces scabiei" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.653622437738679</data>
+    </edge>
+    <edge source="species:Streptomyces scabiei" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.652671627730165</data>
+    </edge>
+    <edge source="species:Streptomyces scabiei" target="species:Microbispora hainanensis">
+      <data key="d1">0.652612037863608</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Streptomyces exfoliatus">
+      <data key="d1">0.669118917110213</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Streptomyces zhihengii">
+      <data key="d1">0.669944958403334</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.662425095872433</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.659374258885966</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Microbispora hainanensis">
+      <data key="d1">0.662616721956002</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Microbispora maris">
+      <data key="d1">0.653704984380604</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Microbispora sp. NBC_01189">
+      <data key="d1">0.650908395846434</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Streptosporangium sp. NBC_01469">
+      <data key="d1">0.653305958600447</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Bifidobacterium sp. ESL0732">
+      <data key="d1">0.654488936608467</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Bifidobacterium sp. ESL0682">
+      <data key="d1">0.652941061254629</data>
+    </edge>
+    <edge source="species:Streptomyces glycanivorans" target="species:Lactococcus sp.">
+      <data key="d1">0.660424755172302</data>
+    </edge>
+    <edge source="species:Streptomyces exfoliatus" target="species:Streptomyces zhihengii">
+      <data key="d1">0.668297193836531</data>
+    </edge>
+    <edge source="species:Streptomyces exfoliatus" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.652197027156223</data>
+    </edge>
+    <edge source="species:Streptomyces exfoliatus" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.660273413973238</data>
+    </edge>
+    <edge source="species:Streptomyces exfoliatus" target="species:Microbispora hainanensis">
+      <data key="d1">0.657322294235041</data>
+    </edge>
+    <edge source="species:Streptomyces exfoliatus" target="species:Lactococcus sp.">
+      <data key="d1">0.655600911886125</data>
+    </edge>
+    <edge source="species:Streptomyces exfoliatus" target="species:Staphylococcus hyicus">
+      <data key="d1">0.653191704042283</data>
+    </edge>
+    <edge source="species:Streptomyces zhihengii" target="species:Kitasatospora sp. MMS16-BH015">
+      <data key="d1">0.653935966427067</data>
+    </edge>
+    <edge source="species:Streptomyces zhihengii" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.655203289434989</data>
+    </edge>
+    <edge source="species:Streptomyces zhihengii" target="species:Microbispora hainanensis">
+      <data key="d1">0.655267552298465</data>
+    </edge>
+    <edge source="species:Streptomyces zhihengii" target="species:Microbispora maris">
+      <data key="d1">0.653251374024729</data>
+    </edge>
+    <edge source="species:Streptomyces zhihengii" target="species:Bifidobacterium sp. ESL0732">
+      <data key="d1">0.653060338126264</data>
+    </edge>
+    <edge source="species:Streptomyces zhihengii" target="species:Lactococcus sp.">
+      <data key="d1">0.664093611083595</data>
+    </edge>
+    <edge source="species:Streptomyces zhihengii" target="species:Staphylococcus hyicus">
+      <data key="d1">0.6506230253342</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Kitasatospora sp. NBC_00458">
+      <data key="d1">0.651054809532102</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Microbispora hainanensis">
+      <data key="d1">0.662626722815734</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Microbispora maris">
+      <data key="d1">0.665364110321097</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Microbispora sp. NBC_01189">
+      <data key="d1">0.662571886439107</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Microbispora sp. NBC_01389">
+      <data key="d1">0.658518487525337</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Streptosporangium sp. NBC_01495">
+      <data key="d1">0.650148325251741</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Streptosporangium sp. NBC_01469">
+      <data key="d1">0.667602320331464</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Streptosporangium sp. NBC_01755">
+      <data key="d1">0.662504404082644</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Streptosporangium roseum">
+      <data key="d1">0.652039158962292</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Streptosporangium subroseum">
+      <data key="d1">0.666010447434128</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Bifidobacterium sp. ESL0682">
+      <data key="d1">0.658675543721479</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Olsenella timonensis">
+      <data key="d1">0.66104291320127</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Lactococcus sp.">
+      <data key="d1">0.652198810159392</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. MMS16-BH015" target="species:Staphylococcus hyicus">
+      <data key="d1">0.653805677477875</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. NBC_00458" target="species:Lactococcus sp.">
+      <data key="d1">0.653034776537786</data>
+    </edge>
+    <edge source="species:Kitasatospora sp. NBC_00458" target="species:Staphylococcus hyicus">
+      <data key="d1">0.662164276833959</data>
+    </edge>
+    <edge source="species:Microbispora hainanensis" target="species:Microbispora maris">
+      <data key="d1">0.668185481194694</data>
+    </edge>
+    <edge source="species:Microbispora hainanensis" target="species:Microbispora sp. NBC_01189">
+      <data key="d1">0.659613976151232</data>
+    </edge>
+    <edge source="species:Microbispora hainanensis" target="species:Microbispora sp. NBC_01389">
+      <data key="d1">0.65638746880006</data>
+    </edge>
+    <edge source="species:Microbispora hainanensis" target="species:Streptosporangium sp. NBC_01469">
+      <data key="d1">0.663867171135459</data>
+    </edge>
+    <edge source="species:Microbispora hainanensis" target="species:Streptosporangium sp. NBC_01755">
+      <data key="d1">0.659177346867958</data>
+    </edge>
+    <edge source="species:Microbispora hainanensis" target="species:Streptosporangium subroseum">
+      <data key="d1">0.65365489014153</data>
+    </edge>
+    <edge source="species:Microbispora hainanensis" target="species:Bifidobacterium sp. ESL0682">
+      <data key="d1">0.664094575714219</data>
+    </edge>
+    <edge source="species:Microbispora hainanensis" target="species:Olsenella timonensis">
+      <data key="d1">0.653182341244732</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Microbispora sp. NBC_01189">
+      <data key="d1">0.670198246577014</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Microbispora sp. NBC_01389">
+      <data key="d1">0.673455773507085</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Streptosporangium sp. 'caverna'">
+      <data key="d1">0.655281735436718</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Streptosporangium sp. NBC_01639">
+      <data key="d1">0.656495819405117</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Streptosporangium sp. NBC_01495">
+      <data key="d1">0.658368101619561</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Streptosporangium sp. NBC_01469">
+      <data key="d1">0.673524278291955</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Streptosporangium sp. NBC_01755">
+      <data key="d1">0.66943599465794</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Streptosporangium roseum">
+      <data key="d1">0.655014115131836</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Streptosporangium subroseum">
+      <data key="d1">0.67153254401596</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Sphaerisporangium sp. NBC_01403">
+      <data key="d1">0.65297293513547</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Bifidobacterium sp. ESL0732">
+      <data key="d1">0.653781424128272</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Bifidobacterium sp. ESL0682">
+      <data key="d1">0.662723239458612</data>
+    </edge>
+    <edge source="species:Microbispora maris" target="species:Olsenella timonensis">
+      <data key="d1">0.66921167083561</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01189" target="species:Microbispora sp. NBC_01389">
+      <data key="d1">0.663802924759539</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01189" target="species:Streptosporangium sp. 'caverna'">
+      <data key="d1">0.651325117431547</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01189" target="species:Streptosporangium sp. NBC_01495">
+      <data key="d1">0.654696379741672</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01189" target="species:Streptosporangium sp. NBC_01469">
+      <data key="d1">0.67621970623939</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01189" target="species:Streptosporangium sp. NBC_01755">
+      <data key="d1">0.667209436583328</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01189" target="species:Streptosporangium subroseum">
+      <data key="d1">0.669204036633444</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01189" target="species:Bifidobacterium sp. ESL0682">
+      <data key="d1">0.659749884936399</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01189" target="species:Olsenella timonensis">
+      <data key="d1">0.664177765637544</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01469" target="species:Microbispora sp. NBC_01389">
+      <data key="d1">0.667481186970628</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01469" target="species:Streptosporangium sp. 'caverna'">
+      <data key="d1">0.651339452507065</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01469" target="species:Streptosporangium sp. NBC_01495">
+      <data key="d1">0.652644502887309</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01469" target="species:Streptosporangium sp. NBC_01755">
+      <data key="d1">0.669458998767589</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01469" target="species:Streptosporangium roseum">
+      <data key="d1">0.653461363561146</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01469" target="species:Streptosporangium subroseum">
+      <data key="d1">0.673887972930214</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01469" target="species:Bifidobacterium sp. ESL0732">
+      <data key="d1">0.650897596937541</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01469" target="species:Bifidobacterium sp. ESL0682">
+      <data key="d1">0.663413055450998</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01469" target="species:Olsenella timonensis">
+      <data key="d1">0.668682739321878</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01755" target="species:Microbispora sp. NBC_01389">
+      <data key="d1">0.667755860829107</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01755" target="species:Streptosporangium sp. 'caverna'">
+      <data key="d1">0.656165544563917</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01755" target="species:Streptosporangium sp. NBC_01639">
+      <data key="d1">0.652872538668319</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01755" target="species:Streptosporangium sp. NBC_01495">
+      <data key="d1">0.651698128582743</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01755" target="species:Streptosporangium roseum">
+      <data key="d1">0.656969603941919</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01755" target="species:Streptosporangium subroseum">
+      <data key="d1">0.667411832971879</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01755" target="species:Sphaerisporangium sp. NBC_01403">
+      <data key="d1">0.653045635194132</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01755" target="species:Bifidobacterium sp. ESL0682">
+      <data key="d1">0.657369604805295</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01755" target="species:Olsenella timonensis">
+      <data key="d1">0.660584584715782</data>
+    </edge>
+    <edge source="species:Bifidobacterium sp. ESL0682" target="species:Microbispora sp. NBC_01389">
+      <data key="d1">0.651316223040583</data>
+    </edge>
+    <edge source="species:Bifidobacterium sp. ESL0682" target="species:Streptosporangium subroseum">
+      <data key="d1">0.655109343087319</data>
+    </edge>
+    <edge source="species:Bifidobacterium sp. ESL0682" target="species:Bifidobacterium sp. ESL0732">
+      <data key="d1">0.653120208217374</data>
+    </edge>
+    <edge source="species:Bifidobacterium sp. ESL0682" target="species:Olsenella timonensis">
+      <data key="d1">0.651070930053875</data>
+    </edge>
+    <edge source="species:Staphylococcus hyicus" target="species:Staphylococcus pasteuri">
+      <data key="d1">0.659538441071366</data>
+    </edge>
+    <edge source="species:Bifidobacterium sp. ESL0732" target="species:Streptosporangium sp. NBC_01639">
+      <data key="d1">0.650956441491928</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01389" target="species:Streptosporangium sp. 'caverna'">
+      <data key="d1">0.657477946506946</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01389" target="species:Streptosporangium sp. NBC_01639">
+      <data key="d1">0.657756536873897</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01389" target="species:Streptosporangium sp. NBC_01495">
+      <data key="d1">0.65289090660163</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01389" target="species:Streptosporangium sp. NBC_01810">
+      <data key="d1">0.65696034701917</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01389" target="species:Streptosporangium roseum">
+      <data key="d1">0.657215109481587</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01389" target="species:Streptosporangium subroseum">
+      <data key="d1">0.671539467695558</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01389" target="species:Sphaerisporangium sp. NBC_01403">
+      <data key="d1">0.658295400973181</data>
+    </edge>
+    <edge source="species:Microbispora sp. NBC_01389" target="species:Olsenella timonensis">
+      <data key="d1">0.664970899476285</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01495" target="species:Streptosporangium sp. 'caverna'">
+      <data key="d1">0.654242873583684</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01495" target="species:Streptosporangium sp. NBC_01639">
+      <data key="d1">0.657729737943928</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. NBC_01495" target="species:Streptosporangium subroseum">
+      <data key="d1">0.651611372677628</data>
+    </edge>
+    <edge source="species:Streptosporangium roseum" target="species:Streptosporangium subroseum">
+      <data key="d1">0.658265258229195</data>
+    </edge>
+    <edge source="species:Streptosporangium roseum" target="species:Sphaerisporangium sp. NBC_01403">
+      <data key="d1">0.675611772998075</data>
+    </edge>
+    <edge source="species:Streptosporangium roseum" target="species:Olsenella timonensis">
+      <data key="d1">0.657865774363491</data>
+    </edge>
+    <edge source="species:Streptosporangium subroseum" target="species:Streptosporangium sp. 'caverna'">
+      <data key="d1">0.650951945385635</data>
+    </edge>
+    <edge source="species:Streptosporangium subroseum" target="species:Streptosporangium sp. NBC_01810">
+      <data key="d1">0.658983006385349</data>
+    </edge>
+    <edge source="species:Streptosporangium subroseum" target="species:Sphaerisporangium sp. NBC_01403">
+      <data key="d1">0.655015028650748</data>
+    </edge>
+    <edge source="species:Streptosporangium subroseum" target="species:Olsenella timonensis">
+      <data key="d1">0.669310086258789</data>
+    </edge>
+    <edge source="species:Mycolicibacterium tokaiense" target="species:Mycolicibacterium mengxianglii">
+      <data key="d1">0.656452693922577</data>
+    </edge>
+    <edge source="species:Mycolicibacterium tokaiense" target="species:Mycobacterium burgundiense">
+      <data key="d1">0.66021752444656</data>
+    </edge>
+    <edge source="species:Mycolicibacterium mengxianglii" target="species:Mycolicibacterium baixiangningiae">
+      <data key="d1">0.658746584478562</data>
+    </edge>
+    <edge source="species:Mycolicibacterium mengxianglii" target="species:Mycolicibacterium aurum">
+      <data key="d1">0.658111183446848</data>
+    </edge>
+    <edge source="species:Mycolicibacterium mengxianglii" target="species:Mycobacterium burgundiense">
+      <data key="d1">0.665120232322828</data>
+    </edge>
+    <edge source="species:Mycolicibacterium mengxianglii" target="species:Bacillus spizizenii">
+      <data key="d1">0.650393563956658</data>
+    </edge>
+    <edge source="species:Mycobacterium burgundiense" target="species:Mycolicibacterium rutilum">
+      <data key="d1">0.665287870166091</data>
+    </edge>
+    <edge source="species:Mycobacterium burgundiense" target="species:Mycolicibacterium vanbaalenii">
+      <data key="d1">0.656284585657166</data>
+    </edge>
+    <edge source="species:Mycolicibacterium baixiangningiae" target="species:Mycolicibacterium aurum">
+      <data key="d1">0.663999789537673</data>
+    </edge>
+    <edge source="species:Mycolicibacterium baixiangningiae" target="species:Staphylococcus sp. LKG3-1">
+      <data key="d1">0.656212007326138</data>
+    </edge>
+    <edge source="species:Mycolicibacterium baixiangningiae" target="species:Bacillus thuringiensis">
+      <data key="d1">0.665089416876799</data>
+    </edge>
+    <edge source="species:Mycolicibacterium baixiangningiae" target="species:Bacillus spizizenii">
+      <data key="d1">0.658479512986731</data>
+    </edge>
+    <edge source="species:Mycolicibacterium aurum" target="species:Bacillus thuringiensis">
+      <data key="d1">0.671741377888481</data>
+    </edge>
+    <edge source="species:Mycolicibacterium aurum" target="species:Bacillus spizizenii">
+      <data key="d1">0.676475236555788</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. LKG3-1" target="species:Staphylococcus sp. 17KM0847">
+      <data key="d1">0.669741229126744</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. LKG3-1" target="species:Staphylococcus casei">
+      <data key="d1">0.682888783529883</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. LKG3-1" target="species:Staphylococcus edaphicus">
+      <data key="d1">0.659818150901427</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. LKG3-1" target="species:Staphylococcus devriesei">
+      <data key="d1">0.653665086338967</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. LKG3-1" target="species:Staphylococcus massiliensis">
+      <data key="d1">0.664830040398216</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. LKG3-1" target="species:Staphylococcus condimenti">
+      <data key="d1">0.658026223702433</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. LKG3-1" target="species:Staphylococcus carnosus">
+      <data key="d1">0.65153874291497</data>
+    </edge>
+    <edge source="species:Bacillus thuringiensis" target="species:Bacillus spizizenii">
+      <data key="d1">0.677443433031624</data>
+    </edge>
+    <edge source="species:Bacillus spizizenii" target="species:Bacillus mycoides">
+      <data key="d1">0.65089540375096</data>
+    </edge>
+    <edge source="species:Mycolicibacterium rutilum" target="species:Mycolicibacterium vanbaalenii">
+      <data key="d1">0.674002274504854</data>
+    </edge>
+    <edge source="species:Mycolicibacterium aichiense" target="species:Parascardovia denticolens">
+      <data key="d1">0.655527830730696</data>
+    </edge>
+    <edge source="species:Mycolicibacterium aichiense" target="species:Richelia sinica">
+      <data key="d1">0.656444949427249</data>
+    </edge>
+    <edge source="species:Parascardovia denticolens" target="species:Richelia sinica">
+      <data key="d1">0.65662787928226</data>
+    </edge>
+    <edge source="species:Streptosporangium sp. 'caverna'" target="species:Streptosporangium sp. NBC_01639">
+      <data key="d1">0.674180677280135</data>
+    </edge>
+    <edge source="species:Sphaerisporangium sp. NBC_01403" target="species:Streptosporangium sp. NBC_01810">
+      <data key="d1">0.652666039053543</data>
+    </edge>
+    <edge source="species:Lancefieldella parvula" target="species:Staphylococcus ratti">
+      <data key="d1">0.656954072659726</data>
+    </edge>
+    <edge source="species:Lancefieldella parvula" target="species:Staphylococcus piscifermentans">
+      <data key="d1">0.662611814806019</data>
+    </edge>
+    <edge source="species:Lancefieldella parvula" target="species:Mammaliicoccus lentus">
+      <data key="d1">0.675322855457121</data>
+    </edge>
+    <edge source="species:Lancefieldella parvula" target="species:Salinicoccus halodurans">
+      <data key="d1">0.651703236243059</data>
+    </edge>
+    <edge source="species:Lancefieldella parvula" target="species:Macrococcus brunensis">
+      <data key="d1">0.663752907245992</data>
+    </edge>
+    <edge source="species:Lancefieldella parvula" target="species:Macrococcus epidermidis">
+      <data key="d1">0.667765924864706</data>
+    </edge>
+    <edge source="species:Lancefieldella parvula" target="species:Macrococcus armenti">
+      <data key="d1">0.655650044211366</data>
+    </edge>
+    <edge source="species:Staphylococcus ratti" target="species:Staphylococcus piscifermentans">
+      <data key="d1">0.684125966217014</data>
+    </edge>
+    <edge source="species:Staphylococcus ratti" target="species:Mammaliicoccus lentus">
+      <data key="d1">0.666994975701625</data>
+    </edge>
+    <edge source="species:Staphylococcus ratti" target="species:Macrococcus brunensis">
+      <data key="d1">0.658548970914269</data>
+    </edge>
+    <edge source="species:Staphylococcus piscifermentans" target="species:Mammaliicoccus lentus">
+      <data key="d1">0.675180350498276</data>
+    </edge>
+    <edge source="species:Staphylococcus piscifermentans" target="species:Macrococcus brunensis">
+      <data key="d1">0.66235963440534</data>
+    </edge>
+    <edge source="species:Staphylococcus piscifermentans" target="species:Macrococcus epidermidis">
+      <data key="d1">0.650679919802359</data>
+    </edge>
+    <edge source="species:Mammaliicoccus lentus" target="species:Macrococcus brunensis">
+      <data key="d1">0.659839545976892</data>
+    </edge>
+    <edge source="species:Mammaliicoccus lentus" target="species:Macrococcus epidermidis">
+      <data key="d1">0.656391119247539</data>
+    </edge>
+    <edge source="species:Salinicoccus halodurans" target="species:Staphylococcus saccharolyticus">
+      <data key="d1">0.654438197696751</data>
+    </edge>
+    <edge source="species:Salinicoccus halodurans" target="species:Mammaliicoccus sp. Dog046">
+      <data key="d1">0.656504186021448</data>
+    </edge>
+    <edge source="species:Salinicoccus halodurans" target="species:Jeotgalicoccus sp. WY2">
+      <data key="d1">0.662910704020324</data>
+    </edge>
+    <edge source="species:Salinicoccus halodurans" target="species:Macrococcus brunensis">
+      <data key="d1">0.654999016897924</data>
+    </edge>
+    <edge source="species:Salinicoccus halodurans" target="species:Macrococcus epidermidis">
+      <data key="d1">0.662740949391187</data>
+    </edge>
+    <edge source="species:Salinicoccus halodurans" target="species:Macrococcus armenti">
+      <data key="d1">0.65248560839946</data>
+    </edge>
+    <edge source="species:Salinicoccus halodurans" target="species:Macrococcoides bohemicum">
+      <data key="d1">0.659899190601643</data>
+    </edge>
+    <edge source="species:Macrococcus brunensis" target="species:Salinicoccus sp. HZC-1">
+      <data key="d1">0.651112988001648</data>
+    </edge>
+    <edge source="species:Macrococcus brunensis" target="species:Macrococcus epidermidis">
+      <data key="d1">0.665283541913571</data>
+    </edge>
+    <edge source="species:Macrococcus brunensis" target="species:Macrococcus armenti">
+      <data key="d1">0.655401412492875</data>
+    </edge>
+    <edge source="species:Macrococcus brunensis" target="species:Macrococcoides bohemicum">
+      <data key="d1">0.651387533126242</data>
+    </edge>
+    <edge source="species:Macrococcus epidermidis" target="species:Salinicoccus sp. HZC-1">
+      <data key="d1">0.657385720171658</data>
+    </edge>
+    <edge source="species:Macrococcus epidermidis" target="species:Macrococcus armenti">
+      <data key="d1">0.676608217234599</data>
+    </edge>
+    <edge source="species:Macrococcus epidermidis" target="species:Macrococcoides bohemicum">
+      <data key="d1">0.65950048963144</data>
+    </edge>
+    <edge source="species:Macrococcus armenti" target="species:Salinicoccus sp. HZC-1">
+      <data key="d1">0.656086941698032</data>
+    </edge>
+    <edge source="species:Macrococcus armenti" target="species:Macrococcoides bohemicum">
+      <data key="d1">0.654733706264044</data>
+    </edge>
+    <edge source="species:Nostoc sphaeroides" target="species:Nostoc piscinale">
+      <data key="d1">0.670842209244076</data>
+    </edge>
+    <edge source="species:Nostoc sphaeroides" target="species:Nostoc edaphicum">
+      <data key="d1">0.667289276190485</data>
+    </edge>
+    <edge source="species:Nostoc piscinale" target="species:Nostoc edaphicum">
+      <data key="d1">0.676346667863758</data>
+    </edge>
+    <edge source="species:Lacticaseibacillus chiayiensis" target="species:Lactobacillus amylovorus">
+      <data key="d1">0.669007280897612</data>
+    </edge>
+    <edge source="species:Lacticaseibacillus chiayiensis" target="species:Lactobacillus crispatus">
+      <data key="d1">0.668109524304953</data>
+    </edge>
+    <edge source="species:Lactobacillus amylovorus" target="species:Lactobacillus crispatus">
+      <data key="d1">0.666087647606398</data>
+    </edge>
+    <edge source="species:Oenococcus oeni" target="species:Furfurilactobacillus rossiae">
+      <data key="d1">0.656779063995625</data>
+    </edge>
+    <edge source="species:Oenococcus oeni" target="species:Bombilactobacillus thymidiniphilus">
+      <data key="d1">0.660003902571136</data>
+    </edge>
+    <edge source="species:Furfurilactobacillus rossiae" target="species:Periweissella cryptocerci">
+      <data key="d1">0.655199518649201</data>
+    </edge>
+    <edge source="species:Furfurilactobacillus rossiae" target="species:Bombilactobacillus thymidiniphilus">
+      <data key="d1">0.676093820943489</data>
+    </edge>
+    <edge source="species:Bombilactobacillus thymidiniphilus" target="species:Periweissella cryptocerci">
+      <data key="d1">0.65097716649163</data>
+    </edge>
+    <edge source="species:Trichococcus shcherbakoviae" target="species:Trichococcus flocculiformis">
+      <data key="d1">0.6513170298077</data>
+    </edge>
+    <edge source="species:Trichococcus shcherbakoviae" target="species:Carnobacterium maltaromaticum">
+      <data key="d1">0.659951451084734</data>
+    </edge>
+    <edge source="species:Trichococcus flocculiformis" target="species:Carnobacterium maltaromaticum">
+      <data key="d1">0.680897569941944</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. IVB6181" target="species:Staphylococcus sp. 17KM0847">
+      <data key="d1">0.651100277944613</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. IVB6181" target="species:Staphylococcus carnosus">
+      <data key="d1">0.661013711466223</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. 17KM0847" target="species:Staphylococcus capitis">
+      <data key="d1">0.652613527447177</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. 17KM0847" target="species:Staphylococcus casei">
+      <data key="d1">0.673241059959664</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. 17KM0847" target="species:Staphylococcus edaphicus">
+      <data key="d1">0.662359439934498</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. 17KM0847" target="species:Staphylococcus devriesei">
+      <data key="d1">0.677424024611047</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. 17KM0847" target="species:Staphylococcus massiliensis">
+      <data key="d1">0.665009340159579</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. 17KM0847" target="species:Staphylococcus condimenti">
+      <data key="d1">0.665710141600173</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. 17KM0847" target="species:Staphylococcus carnosus">
+      <data key="d1">0.678649037694755</data>
+    </edge>
+    <edge source="species:Staphylococcus sp. 17KM0847" target="species:Staphylococcus lloydii">
+      <data key="d1">0.660787482924125</data>
+    </edge>
+    <edge source="species:Staphylococcus carnosus" target="species:Staphylococcus capitis">
+      <data key="d1">0.650109565649015</data>
+    </edge>
+    <edge source="species:Staphylococcus carnosus" target="species:Staphylococcus casei">
+      <data key="d1">0.659534916338992</data>
+    </edge>
+    <edge source="species:Staphylococcus carnosus" target="species:Staphylococcus edaphicus">
+      <data key="d1">0.652245099495148</data>
+    </edge>
+    <edge source="species:Staphylococcus carnosus" target="species:Staphylococcus devriesei">
+      <data key="d1">0.673162631643893</data>
+    </edge>
+    <edge source="species:Staphylococcus carnosus" target="species:Staphylococcus massiliensis">
+      <data key="d1">0.669332337402138</data>
+    </edge>
+    <edge source="species:Staphylococcus carnosus" target="species:Staphylococcus condimenti">
+      <data key="d1">0.658455881742877</data>
+    </edge>
+    <edge source="species:Staphylococcus carnosus" target="species:Staphylococcus lloydii">
+      <data key="d1">0.661689548785996</data>
+    </edge>
+    <edge source="species:Staphylococcus casei" target="species:Staphylococcus edaphicus">
+      <data key="d1">0.650822849852402</data>
+    </edge>
+    <edge source="species:Staphylococcus casei" target="species:Staphylococcus devriesei">
+      <data key="d1">0.653618706644312</data>
+    </edge>
+    <edge source="species:Staphylococcus casei" target="species:Staphylococcus massiliensis">
+      <data key="d1">0.664935334439803</data>
+    </edge>
+    <edge source="species:Staphylococcus casei" target="species:Staphylococcus condimenti">
+      <data key="d1">0.650903013130943</data>
+    </edge>
+    <edge source="species:Staphylococcus edaphicus" target="species:Staphylococcus chromogenes">
+      <data key="d1">0.660392708303022</data>
+    </edge>
+    <edge source="species:Staphylococcus edaphicus" target="species:Staphylococcus devriesei">
+      <data key="d1">0.664804140422145</data>
+    </edge>
+    <edge source="species:Staphylococcus edaphicus" target="species:Staphylococcus massiliensis">
+      <data key="d1">0.657618097028253</data>
+    </edge>
+    <edge source="species:Staphylococcus edaphicus" target="species:Staphylococcus condimenti">
+      <data key="d1">0.682429485713414</data>
+    </edge>
+    <edge source="species:Staphylococcus edaphicus" target="species:Staphylococcus lloydii">
+      <data key="d1">0.657920694947696</data>
+    </edge>
+    <edge source="species:Staphylococcus devriesei" target="species:Staphylococcus capitis">
+      <data key="d1">0.650454372136362</data>
+    </edge>
+    <edge source="species:Staphylococcus devriesei" target="species:Staphylococcus succinus">
+      <data key="d1">0.656607822556064</data>
+    </edge>
+    <edge source="species:Staphylococcus devriesei" target="species:Staphylococcus chromogenes">
+      <data key="d1">0.664974900171149</data>
+    </edge>
+    <edge source="species:Staphylococcus devriesei" target="species:Staphylococcus massiliensis">
+      <data key="d1">0.670088327500335</data>
+    </edge>
+    <edge source="species:Staphylococcus devriesei" target="species:Staphylococcus condimenti">
+      <data key="d1">0.677470731476908</data>
+    </edge>
+    <edge source="species:Staphylococcus devriesei" target="species:Staphylococcus lloydii">
+      <data key="d1">0.681125506273951</data>
+    </edge>
+    <edge source="species:Staphylococcus massiliensis" target="species:Staphylococcus chromogenes">
+      <data key="d1">0.669605279497807</data>
+    </edge>
+    <edge source="species:Staphylococcus massiliensis" target="species:Staphylococcus condimenti">
+      <data key="d1">0.668661395528826</data>
+    </edge>
+    <edge source="species:Staphylococcus massiliensis" target="species:Staphylococcus lloydii">
+      <data key="d1">0.6609443474756</data>
+    </edge>
+    <edge source="species:Staphylococcus condimenti" target="species:Staphylococcus succinus">
+      <data key="d1">0.656629955173281</data>
+    </edge>
+    <edge source="species:Staphylococcus condimenti" target="species:Staphylococcus chromogenes">
+      <data key="d1">0.670832683778791</data>
+    </edge>
+    <edge source="species:Staphylococcus condimenti" target="species:Staphylococcus lloydii">
+      <data key="d1">0.671357883372836</data>
+    </edge>
+    <edge source="species:Staphylococcus lloydii" target="species:Staphylococcus succinus">
+      <data key="d1">0.651878794493985</data>
+    </edge>
+    <edge source="species:Staphylococcus lloydii" target="species:Staphylococcus kloosii">
+      <data key="d1">0.65086184922427</data>
+    </edge>
+    <edge source="species:Staphylococcus lloydii" target="species:Staphylococcus chromogenes">
+      <data key="d1">0.652415050455521</data>
+    </edge>
+    <edge source="species:Staphylococcus succinus" target="species:Staphylococcus kloosii">
+      <data key="d1">0.667615157945236</data>
+    </edge>
+    <edge source="species:Staphylococcus succinus" target="species:Staphylococcus pseudintermedius">
+      <data key="d1">0.651173169877757</data>
+    </edge>
+    <edge source="species:Staphylococcus succinus" target="species:Staphylococcus simiae">
+      <data key="d1">0.651929176286754</data>
+    </edge>
+    <edge source="species:Staphylococcus kloosii" target="species:Staphylococcus simiae">
+      <data key="d1">0.650167986006501</data>
+    </edge>
+    <edge source="species:Staphylococcus pseudintermedius" target="species:Staphylococcus felis">
+      <data key="d1">0.651907738412792</data>
+    </edge>
+    <edge source="species:Staphylococcus pseudintermedius" target="species:Staphylococcus lutrae">
+      <data key="d1">0.654784805711786</data>
+    </edge>
+    <edge source="species:Staphylococcus felis" target="species:Staphylococcus saccharolyticus">
+      <data key="d1">0.660471043054953</data>
+    </edge>
+    <edge source="species:Staphylococcus felis" target="species:Staphylococcus lutrae">
+      <data key="d1">0.654807747618746</data>
+    </edge>
+    <edge source="species:Staphylococcus lutrae" target="species:Bacillus mycoides">
+      <data key="d1">0.650373023753839</data>
+    </edge>
+    <edge source="species:Staphylococcus saccharolyticus" target="species:Mammaliicoccus sp. Dog046">
+      <data key="d1">0.659382813129084</data>
+    </edge>
+    <edge source="species:Staphylococcus saccharolyticus" target="species:Jeotgalicoccus sp. WY2">
+      <data key="d1">0.659066944339962</data>
+    </edge>
+    <edge source="species:Mammaliicoccus sp. Dog046" target="species:Jeotgalicoccus sp. WY2">
+      <data key="d1">0.651509703567843</data>
+    </edge>
+  </graph>
+</graphml>

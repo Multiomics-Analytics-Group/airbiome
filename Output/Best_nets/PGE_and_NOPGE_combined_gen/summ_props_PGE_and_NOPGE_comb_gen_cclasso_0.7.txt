@@ -1,0 +1,109 @@
+Number of Nodes:  357 
+Number of Edges:  5021 
+Average Degree (excluding singletons):  24.29248 
+
+=== Network Properties Summary ===
+
+Component sizes
+```````````````                           
+size: 249 45 6 5 4 3  2   1
+   #:   1  1 1 3 2 2 14 641
+______________________________
+Global network properties
+`````````````````````````
+Largest connected component (LCC):
+                                
+Relative LCC size          0.249
+Clustering coefficient     0.700
+Modularity                 0.325
+Positive edge percentage 100.000
+Edge density               0.150
+Natural connectivity       0.155
+Vertex connectivity        1.000
+Edge connectivity          1.000
+Average dissimilarity*     0.346
+Average path length**      2.645
+
+Whole network:
+                                
+Number of components     665.000
+Clustering coefficient     0.718
+Modularity                 0.365
+Positive edge percentage 100.000
+Edge density               0.010
+Natural connectivity       0.037
+-----
+*: Dissimilarity = 1 - edge weight
+**: Path length = Units with average dissimilarity
+
+______________________________
+Clusters
+- In the LCC
+- Algorithm: cluster_fast_greedy
+```````````````````````````````` 
+                          
+name:  1  2 3 4 5 6 7  8 9
+   #: 87 91 4 8 4 5 2 44 4
+
+______________________________
+Hubs
+- In alphabetical/numerical order
+- Based on log-normal quantiles of centralities
+```````````````````````````````````````````````
+No hubs detected.
+______________________________
+Centrality measures
+- In decreasing order
+- Centrality of disconnected components is zero
+````````````````````````````````````````````````
+Degree (weighted):
+                           
+Haloprofundus        67.836
+Aureimonas           67.743
+Anaerohalosphaera    67.611
+Chelativorans        66.135
+Desulfolutivibrio    66.106
+Anaerolinea          64.672
+Baekduia             63.945
+Allosphingosinicella 63.012
+Caldibacillus        62.460
+Anatilimnocola       60.343
+
+Betweenness centrality (normalized):
+                            
+Azorhizophilus         0.071
+Effusibacillus         0.059
+Anaerostipes           0.052
+Caldifermentibacillus  0.046
+Barrientosiimonas      0.041
+Falsihalocynthiibacter 0.038
+Carjivirus             0.037
+Aureimonas             0.036
+Allosphingosinicella   0.034
+Aurantiacibacter       0.032
+
+Closeness centrality (normalized):
+                          
+Desulfolutivibrio    0.689
+Anaerohalosphaera    0.689
+Haloprofundus        0.686
+Baekduia             0.685
+Allosphingosinicella 0.685
+Chelativorans        0.680
+Aureimonas           0.675
+Anaerolinea          0.675
+Caldithrix           0.669
+Actinobacillus       0.668
+
+Eigenvector centrality (normalized):
+                       
+Haloprofundus     1.000
+Anaerohalosphaera 0.997
+Desulfolutivibrio 0.995
+Baekduia          0.981
+Chelativorans     0.977
+Anaerolinea       0.967
+Aureimonas        0.956
+Actinobacillus    0.928
+Caldibacillus     0.926
+Anatilimnocola    0.925

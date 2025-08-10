@@ -1,0 +1,13 @@
+metadata	reason
+Biome	constant
+fluoruros	constant
+cloruros	constant
+sulfatos	constant
+k_	constant
+mg_	constant
+ca_	constant
+na_	constant
+oc1	constant
+ec	constant
+ec2	constant
+sia	constant

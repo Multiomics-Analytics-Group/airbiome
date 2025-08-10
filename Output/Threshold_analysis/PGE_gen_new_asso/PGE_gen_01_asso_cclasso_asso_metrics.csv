@@ -1,0 +1,12 @@
+Threshold,NetworkType,Dataset,Nodes,Edges,Number_communities,Modularity,Avg_degree,Avg_clustering_coefficient,Density
+0.1,cclasso,PGE_gen_01_asso,968,45446,5,0.451,15.605,0.154,0.097
+0.15,cclasso,PGE_gen_01_asso,895,22619,5,0.503,10.636,0.193,0.057
+0.2,cclasso,PGE_gen_01_asso,736,10474,5,0.555,7.231,0.228,0.039
+0.25,cclasso,PGE_gen_01_asso,542,4361,6,0.585,4.787,0.252,0.030
+0.3,cclasso,PGE_gen_01_asso,319,1514,7,0.637,3.251,0.297,0.030
+0.35,cclasso,PGE_gen_01_asso,142,409,9,0.699,2.250,0.364,0.041
+0.4,cclasso,PGE_gen_01_asso,53,89,7,0.796,1.496,0.458,0.065
+0.45,cclasso,PGE_gen_01_asso,8,10,2,0.414,1.261,0.779,0.357
+0.5,cclasso,PGE_gen_01_asso,3,3,Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges)
+0.55,cclasso,PGE_gen_01_asso,0,0,Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges)
+0.6,cclasso,PGE_gen_01_asso,No network available,No network available,No network available,No network available,No network available,No network available,No network available

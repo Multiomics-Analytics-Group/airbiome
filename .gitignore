@@ -1,6 +1,11 @@
 Data/
-Scripts/Network_analysis/
+lib/
+logs/
 .RData
 .Rhistory
 .Rproj.user/
 *.DS_Store
+*__pycache__/
+*.rds
+Scripts/Network_analysis/Multi_layer_network.py
+Output/Network_inference/

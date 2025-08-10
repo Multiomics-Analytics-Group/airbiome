@@ -1,0 +1,499 @@
+=== Network 1 (PGE) ===
+Number of Nodes with singletons: 3581
+Number of Nodes without singletons:  91 
+Number of Edges:  137 
+Average Degree (excluding singletons):  1.010154 
+
+=== Network 2 (NO_PGE) ===
+Number of Nodes with singletons: 3581
+Number of Nodes without singletons:  1367 
+Number of Edges:  36016 
+Average Degree (excluding singletons):  22.53759 
+
+=== Combined Network Properties Summary ===
+
+OTU overlapping
+  * Overlapping sp with singletons: 74
+    * Jaccard Similarity: 0.0381 
+    * Percent overlap (vs PGE): 28.14% 
+    * Percent overlap (vs NO_PGE): 4.22%
+  * Overlapping sp without singletons: 17
+    * Jaccard Similarity: 0.0118
+    * Percent overlap (vs PGE): 18.68%
+    * Percent overlap (vs NO_PGE): 1.24%
+
+Edge overlapping
+  * Overlapping edges with singletons: 1
+  * Overlapping edges without singletons: 0
+
+Differential networks: No significant differential associations detected after multiple testing adjustment.
+
+Component sizes
+```````````````
+group '1':                                 
+size: 162 12 10 8 6 5 4 3  2    1
+   #:   1  1  1 1 1 1 2 8 27 3292
+group '2':                                         
+size: 1179 250 22 15 8 7 6 5 4  3  2    1
+   #:    1   1  1  1 1 1 3 6 7 24 65 1822
+______________________________
+Global network properties
+`````````````````````````
+Largest connected component (LCC):
+                         group '1'   group '2'    difference
+Relative LCC size            0.045       0.329         0.284
+Clustering coefficient       0.335       0.659         0.324
+Modularity                   0.716       0.476         0.240
+Positive edge percentage    77.637      99.916        22.279
+Edge density                 0.018       0.048         0.030
+Natural connectivity         0.009       0.075         0.066
+Vertex connectivity          1.000       1.000         0.000
+Edge connectivity            1.000       1.000         0.000
+Average dissimilarity*       0.566       0.453         0.112
+Average path length**        6.487       7.638         1.151
+
+Whole network:
+                         group '1'   group '2'    difference
+Number of components      3335.000    1933.000      1402.000
+Clustering coefficient       0.316       0.643         0.327
+Modularity                   0.810       0.539         0.271
+Positive edge percentage    80.488      99.917        19.430
+Edge density                 0.000       0.006         0.006
+Natural connectivity         0.000       0.024         0.024
+-----
+ *: Dissimilarity = 1 - edge weight
+**: Path length = Units with average dissimilarity
+
+______________________________
+Jaccard index (similarity betw. sets of most central nodes)
+```````````````````````````````````````````````````````````
+                    Jacc   P(<=Jacc)     P(>=Jacc)   
+degree             0.003           0 ***         1   
+betweenness centr. 0.003           0 ***         1   
+closeness centr.   0.005           0 ***         1   
+eigenvec. centr.   0.008           0 ***         1   
+hub taxa           0.000           0 ***         1   
+-----
+Jaccard index in [0,1] (1 indicates perfect agreement)
+
+______________________________
+Adjusted Rand index (similarity betw. clusterings)
+``````````````````````````````````````````````````
+        wholeNet       LCC
+ARI       -0.041     0.043
+p-value    0.000     0.000
+-----
+ARI in [-1,1] with ARI=1: perfect agreement betw. clusterings
+                   ARI=0: expected for two random clusterings
+p-value: permutation test (n=1000) with null hypothesis ARI=0
+
+______________________________
+Graphlet Correlation Distance
+`````````````````````````````
+    wholeNet       LCC
+GCD    2.341     2.768
+-----
+GCD >= 0 (GCD=0 indicates perfect agreement between GCMs)
+
+______________________________
+Clusters
+- In the whole network
+- Algorithm: cluster_fast_greedy
+```````````````````````````````` 
+group '1':                                                                                                                                                     
+name:    0  1  2  3  4  5 6  7  8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47
+   #: 3292 21 10 14 20 15 8 20 25 3  9  4 10  2  2  3  2 11  5 12  7  6  4  3  3  2  2  2  3  3  2  2  2  2  3  2  3  2  2  4  3  3  2  2  2  2  2  2
+                             
+name: 48 49 50 51 52 53 54 55
+   #:  2  2  2  2  2  2  2  2
+
+group '2':                                                                                                                                                   
+name:    0   1   2  3   4 5 6   7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45
+   #: 1822 339 250 78 108 2 2 207 96 67 35 70 20 15  2 49  3  3  5 17 22  3  2  2  4  3  3  4  6  2  2  2  2  3  2  2  2  4 39  6  3  3  3  2  3  5
+                                                                                                                                                     
+name: 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93
+   #:  2  2  2  2  7  2  2  5  3  2  4  2  2  2  2  5  2  3  2  3  2 18  2  2  2  2  2  2  3  2  2  2  2  5  2  3  4  2  3  2  4  6  2  3  2  2  5  2
+                                                                                                                                                   
+name: 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130
+   #:  2  3  2  2  2  4   2   4   4   2   2   3   3   2   3   2   2   3   2   2   2   2   2   3   4   2   2   5   2   2   5   8   5   2   3   3   2
+             
+name: 131 132
+   #:   2   4
+
+______________________________
+Hubs
+- In alphabetical/numerical order
+- Based on log-normal quantiles of centralities
+```````````````````````````````````````````````
+                        group '1'                             group '2'
+         Achromobacter sp. AONIH1                [Clostridium] scindens
+        Agrilutibacter solisilvae                [Ruminococcus] torques
+ Bosea sp. (in: a-proteobacteria)                     Acetobacter aceti
+             Bosea sp. PAMC 26642                 Acetobacter ascendens
+                 Bosea vaviloviae                 Acetobacter ghanensis
+  Bradyrhizobium prioriisuperbiae                Acetobacter orientalis
+             Burkholderia cepacia                  Acetobacter oryzoeni
+           Burkholderia ubonensis              Acetobacter pasteurianus
+            Caldimonas brevitalea                   Acetobacter persici
+         Caulobacter sp. NIBR1757              Acetobacter senegalensis
+       Cnuibacter physcomitrellae                  Acetobacter sp. KSO5
+             Comamonas flocculans                Acetobacter tropicalis
+        Cupriavidus metallidurans                  Acetobacter vaccinii
+            Delftia tsuruhatensis              Achromobacter mucicolens
+          Erythrobacter litoralis                 Achromobacter spanius
+               Gaopeijia maritima                   Acidovorax sp. BLS4
+       Gryllotalpicola protaetiae               Acinetobacter baumannii
+     Luteipulveratus mongoliensis                  Acinetobacter baylyi
+           Microbacterium limosum              Acinetobacter bereziniae
+            Novosphingobium sp. 9         Acinetobacter corruptisaponis
+   Novosphingobium sp. BL-52-GroH            Acinetobacter haemolyticus
+          Novosphingobium sp. P6W                 Acinetobacter indicus
+           Paracoccus aminophilus               Acinetobacter johnsonii
+        Phenylobacterium montanum                   Acinetobacter junii
+        Phenylobacterium zucineum                  Acinetobacter pittii
+         Phycicoccus endophyticus                    Acinetobacter soli
+             Roseateles sp. DAIF2              Acinetobacter sp. A1-4-2
+            Sphingobium sp. SYK-6              Acinetobacter sp. WCHA45
+               Starkeya sp. ORNL1                 Acinetobacter towneri
+                    Stella humosa                Acinetobacter ursingii
+ Tardibacter chloracetimidivorans              Acinetobacter wuhouensis
+   uncultured Pleomorphomonas sp.                 Aerococcus urinaeequi
+                                                    Aerococcus viridans
+                                                Agrobacterium cucumeris
+                                                  Agrobacterium pusense
+                                                 Aliarcobacter butzleri
+                                            Aliarcobacter cryaerophilus
+                                                 Anaerobutyricum hallii
+                                            Anaerocolumna sp. AGMB13020
+                                  Areca yellow leaf disease phytoplasma
+                                                        Babesia microti
+                                                        Bacillus cereus
+                                                 Bacillus thuringiensis
+                                                    Bacillus velezensis
+                                                   Bacteroides fragilis
+                                           Bacteroides thetaiotaomicron
+                                                     Besnoitia besnoiti
+                                                    Bigelowiella natans
+                                                Blattabacterium cuenoti
+                                                           Blautia luti
+                                                          Blautia obeum
+                                                       Blautia wexlerae
+                                          Brachybacterium sp. SGAir0954
+                                                      Brucella anthropi
+                                                    Brucella intermedia
+                                                     Brucella pituitosa
+                                            Brucella pseudogrignonensis
+                                               Burkholderia multivorans
+                                        Candidatus Hodgkinia cicadicola
+                                    Candidatus Ichthyocystis hellenicum
+                                      Candidatus Liberibacter africanus
+                                              Catenibacterium mitsuokai
+                                            Catenibacterium sp. co_0103
+                                                         Cedecea neteri
+                                             Chryseobacterium camelliae
+                                           Chryseobacterium indologenes
+                                         Chryseobacterium indoltheticum
+                                           Chryseobacterium manosquense
+                                          Chryseobacterium scophthalmum
+                                            Chryseobacterium sp. MYb264
+                                              Chryseobacterium sp. Y16C
+                                        Chryseobacterium taklimakanense
+                                                   Citrobacter freundii
+                                              Citrobacter portucalensis
+                                                    Claveliimonas bilis
+                                                  Cloacibacterium caeni
+                                             Cloacibacterium normanense
+                                               Clostridioides difficile
+                                                    Clostridium baratii
+                                               Clostridium beijerinckii
+                                                  Clostridium botulinum
+                                              Clostridium estertheticum
+                                                Clostridium intestinale
+                                                Clostridium perfringens
+                                                Clostridium sp. DL-VIII
+                                                       Cohnella abietis
+                                                   Comamonas kerstersii
+                                                       Comamonas piscis
+                                                  Comamonas sp. B21-038
+                                                Comamonas sp. GB3 AK4-5
+                                                    Comamonas terrigena
+                                                 Comamonas testosteroni
+                                                  Comamonas thiooxydans
+                                             Corynebacterium glutamicum
+                                                 Cryptosporidium parvum
+                                               Dictyostelium discoideum
+                                                      Dorea longicatena
+                                              Duganella dendranthematis
+                                        Dysgonomonas capnocytophagoides
+                                                  Empedobacter falsenii
+                                                  Enterobacter asburiae
+                                                   Enterobacter cloacae
+                                                Enterobacter huaxiensis
+                                                      Enterobacter soli
+                                                    Enterobacter sp. T2
+                                             Enterococcus casseliflavus
+                                                   Enterococcus cecorum
+                                                  Enterococcus faecalis
+                                                   Enterococcus faecium
+                                                Enterococcus sp. CR-Ec1
+                                           Epilithonimonas sp. UC225_85
+                                              Epilithonimonas vandammei
+                                                   Epilithonimonas zeae
+                                                       Escherichia coli
+                                                 Flavobacterium channae
+                                                Flavobacterium cyclinae
+                                                     Frateuria aurantia
+                                   Globicatella sp. PHS-GS-PNBC-21-1553
+                                                  Gluconobacter albidus
+                                                Gluconobacter frateurii
+                                                  Gluconobacter oxydans
+                                                   Gluconobacter roseus
+                                               Gluconobacter sphaericus
+                                             Gluconobacter thailandicus
+                                                       Guillardia theta
+                                                Halomonas sp. JS92-SW72
+                                                    Helicobacter pylori
+                                                     Jeotgalibaca porci
+                                           Jeotgalicoccus sp. ATCC 8456
+                                                     Kaistella faecalis
+                                                  Klebsiella huaxiensis
+                                               Klebsiella michiganensis
+                                                   Klebsiella variicola
+                                                     Kluyvera ascorbata
+                                                  Kluyvera cryocrescens
+                                                    Kluyvera intermedia
+                                                  Kluyvera sichuanensis
+                                             Komagataeibacter nataicola
+                                        Komagataeibacter saccharivorans
+                                                    Kosakonia calanthes
+                                                      Kosakonia cowanii
+                                                       Kosakonia oryzae
+                                                Kosakonia radicincitans
+                                                     Kosakonia sacchari
+                                           Kosakonia sp. CCTCC M2018092
+                                                  Kosakonia sp. ML.JS2a
+                                                    Kosakonia sp. MUSA4
+                                                      Kozakia baliensis
+                                                   Lacrimispora sp. JR3
+                                             Lacrimispora xylanisolvens
+                                              Lacrimispora xylanolytica
+                                      Lacticaseibacillus manihotivorans
+                                           Lacticaseibacillus pantheris
+                                           Lacticaseibacillus paracasei
+                                    Lactiplantibacillus argentoratensis
+                                           Lactiplantibacillus pentosus
+                                          Lactiplantibacillus plantarum
+                                               Lactobacillus amylovorus
+                                                Lactobacillus crispatus
+                                               Lactobacillus helveticus
+                                                Lactobacillus johnsonii
+                                                   Lactococcus cremoris
+                                                     Lactococcus lactis
+                                              Lactococcus raffinolactis
+                                                Lactococcus taiwanensis
+                                                Latilactobacillus sakei
+                                              Leishmania martiniquensis
+                                                    Leishmania mexicana
+                                                 Leishmania sp. Namibia
+                                           Lentilactobacillus hilgardii
+                                                   Leuconostoc carnosum
+                                                    Leuconostoc citreum
+                                             Leuconostoc falkenbergense
+                                              Leuconostoc gasicomitatum
+                                                     Leuconostoc lactis
+                                              Leuconostoc mesenteroides
+                                        Leuconostoc pseudomesenteroides
+                                               Levilactobacillus brevis
+                                           Ligilactobacillus salivarius
+                                          Limosilactobacillus fermentum
+                                            Limosilactobacillus reuteri
+                                          Limosilactobacillus vaginalis
+                                            Liquorilactobacillus hordei
+                                           Liquorilactobacillus nagelii
+                                        Loigolactobacillus bifermentans
+                                        Loigolactobacillus coryniformis
+                                            Macrococcoides caseolyticum
+                                                  Mammaliicoccus lentus
+                                                  Mammaliicoccus sciuri
+                                              Mediterraneibacter gnavus
+                                                   Megamonas funiformis
+                                            Methylobacillus flagellatus
+                                                    Morganella morganii
+                                               Nosocomiicoccus ampullae
+                                                 Novacetimonas hansenii
+                                              Novosphingobium sp. BL-8A
+                                                Novosphingobium sp. RL4
+                                                     Pantoea rwandensis
+                                                     Pantoea sp. BRR-3P
+                                                         Pantoea vagans
+                                               Paraburkholderia tropica
+                                              Paraclostridium sordellii
+                                            Paucilactobacillus suebicus
+                                             Pectobacterium brasiliense
+                                           Peribacillus frigoritolerans
+                                              Phaeodactylum tricornutum
+                                                   Phytobacter ursingii
+                                                    Plasmodium chabaudi
+                                                     Plasmodium vinckei
+                                                      Plasmodium yoelii
+                                                       Porcisia hertigi
+                                                   Prevotella herbatica
+                                                Prochlorococcus marinus
+                                                      Proteus mirabilis
+                                            Pseudomonas extremaustralis
+                                             Pseudomonas kurunegalensis
+                                                     Pseudomonas putida
+                                                   Pseudomonas sp. ABC1
+                                                  Pseudomonas sp. MPB23
+                                                   Pseudomonas sp. RC10
+                                              Pseudomonas xanthosomatis
+                                                     Raoultella sp. HC6
+                                                   Raoultella terrigena
+                                                  Rhizosphaericola mali
+                                                     Romboutsia ilealis
+                                                   Romboutsia sp. 13368
+                                                    Romboutsia sp. CE17
+                                                       Roseburia faecis
+                                                  Ruoffia tabacinasalis
+                                                    Salmonella enterica
+                                    Schleiferilactobacillus harbinensis
+                                   Secundilactobacillus paracollinoides
+                                                        Segatella copri
+                                                      Segatella hominis
+                                                      Sellimonas catena
+                                                     Snodgrassella alvi
+                                           Sphingobacterium daejeonense
+                                            Sphingobacterium multivorum
+                                             Sphingobacterium sp. G1-14
+                                          Sphingobacterium thalpophilum
+                                               Spironucleus salmonicida
+                                                  Staphylococcus aureus
+                                                  Staphylococcus cohnii
+                                             Staphylococcus epidermidis
+                                                 Staphylococcus equorum
+                                            Staphylococcus haemolyticus
+                                                Staphylococcus simulans
+                                           Stenotrophomonas maltophilia
+                                          Stenotrophomonas sp. 24(2023)
+                                   Stenotrophomonas sp. ESTM1D_MKCIP4_1
+                                   Stenotrophomonas sp. ZAC14A_NAIMI4_1
+                                            Streptococcus alactolyticus
+                                              Streptococcus lutetiensis
+                                                     Streptococcus suis
+                                         Symbiopectobacterium purcellii
+                                                       Tatumella citrea
+                                                      Tatumella ptyseos
+                                              Terrisporobacter mayombei
+                                          Terrisporobacter petrolearius
+                                                         Theileria equi
+                                                  Trichomonas vaginalis
+                                                     Trypanosoma brucei
+                                                     Turicibacter bilis
+                                                  Turicibacter sp. TJ11
+                                        uncultured Acetobacteroides sp.
+                                                      Weissella cibaria
+                                                      Weissella confusa
+                                                Weissella jogaejeotgali
+                                            Weissella paramesenteroides
+                                                         Weissella soli
+
+______________________________
+Centrality measures
+- In decreasing order
+- Computed for the complete network
+````````````````````````````````````
+Degree (weighted):
+                                group '1' group '2'
+           Roseateles sp. DAIF2     4.131         0
+      Cupriavidus metallidurans     3.791         0
+ Novosphingobium sp. BL-52-GroH     3.678         0
+                  Stella humosa     3.381         0
+         Microbacterium limosum     3.229         0
+           Comamonas flocculans     3.186         0
+       Achromobacter sp. AONIH1     2.969         0
+ uncultured Pleomorphomonas sp.     2.875     0.529
+         Paracoccus aminophilus     2.772     9.423
+        Erythrobacter litoralis     2.641     2.642
+                                   ______    ______
+           Lactococcus cremoris         0   163.207
+      Epilithonimonas vandammei         0   162.918
+  Chryseobacterium scophthalmum         0    162.76
+    Chryseobacterium sp. MYb264         0   160.554
+       Acinetobacter wuhouensis         0   154.503
+   Epilithonimonas sp. UC225_85         0   152.882
+           Epilithonimonas zeae         0    152.05
+          Empedobacter falsenii         0   151.695
+       Clostridium beijerinckii         0   150.527
+               Escherichia coli         0   146.598
+
+Betweenness centrality (normalized):
+                                  group '1' group '2'
+  Bradyrhizobium prioriisuperbiae     0.001         0
+                    Stella humosa         0         0
+   Methyloceanibacter caenitepidi         0         0
+   uncultured Pleomorphomonas sp.         0         0
+            Delftia tsuruhatensis         0         0
+         Achromobacter sp. AONIH1         0         0
+             Roseateles sp. DAIF2         0         0
+        Agrilutibacter solisilvae         0         0
+           Cupriavidus sp. DF5525         0         0
+       Pelagerythrobacter marinus         0         0
+                                     ______    ______
+  Brachybacterium huguangmaarense         0     0.039
+     Brachybacterium sp. NBEC-018         0     0.036
+  Acidipropionibacterium jensenii         0     0.035
+    Rhodococcoides kroppenstedtii         0     0.027
+        Deinococcus proteolyticus         0      0.02
+             Lactococcus cremoris         0     0.015
+           Brevibacterium sp. CS2         0     0.015
+ Propionimicrobium sp. PCR01-08-3         0     0.014
+ Propionibacterium freudenreichii         0     0.012
+         Brevibacterium sp. BRM-1         0     0.011
+
+Closeness centrality (normalized):
+                                 group '1' group '2'
+           Delftia tsuruhatensis     0.013     0.098
+            Roseateles sp. DAIF2     0.013         0
+        Achromobacter sp. AONIH1     0.013         0
+ Bradyrhizobium prioriisuperbiae     0.013         0
+  Novosphingobium sp. BL-52-GroH     0.013         0
+       Cupriavidus metallidurans     0.013         0
+  uncultured Pleomorphomonas sp.     0.013     0.009
+       Phenylobacterium zucineum     0.012         0
+                   Stella humosa     0.012         0
+          Cupriavidus sp. DF5525     0.012         0
+                                    ______    ______
+            Lactococcus cremoris         0     0.148
+   Chryseobacterium scophthalmum         0     0.147
+       Epilithonimonas vandammei         0     0.147
+     Chryseobacterium sp. MYb264         0     0.145
+           Empedobacter falsenii         0     0.144
+    Epilithonimonas sp. UC225_85         0     0.143
+        Acinetobacter wuhouensis         0     0.142
+        Clostridium beijerinckii         0     0.142
+            Epilithonimonas zeae         0     0.142
+              Lactococcus lactis         0     0.142
+
+Eigenvector centrality (normalized):
+                                   group '1' group '2'
+    Novosphingobium sp. BL-52-GroH     0.561         0
+         Cupriavidus metallidurans     0.521         0
+          Caulobacter sp. NIBR1757      0.43         0
+  Tardibacter chloracetimidivorans     0.425     0.002
+              Roseateles sp. DAIF2     0.364         0
+               Roseateles sp. SL47     0.327         0
+ Sphingobium phenoxybenzoativorans     0.243         0
+          Erythrobacter sp. THAF29      0.24         0
+             Novosphingobium sp. 9     0.201         0
+           Sphingomonas sp. SUN039     0.191     0.042
+                                      ______    ______
+              Lactococcus cremoris         0      0.67
+       Chryseobacterium sp. MYb264         0     0.663
+         Epilithonimonas vandammei         0     0.644
+     Chryseobacterium scophthalmum         0     0.637
+      Epilithonimonas sp. UC225_85         0     0.637
+              Epilithonimonas zeae         0      0.63
+          Acinetobacter wuhouensis         0     0.628
+            Aliarcobacter butzleri         0     0.622
+           Latilactobacillus sakei         0     0.616
+        Enterococcus casseliflavus         0     0.613

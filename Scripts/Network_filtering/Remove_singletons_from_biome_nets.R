@@ -2,21 +2,14 @@ library(igraph)
 library(dplyr)
 
 # Define base path, biomes, network types, and thresholds
-root_path <- "Output/Biomes_exptypes"
+root_path <- "Output/Network_inference/PGE_and_NOPGE_05"
 network_type <- "cclasso"
-biomes_extypes <- c("Wastewater_Activated_Sludge_assembly", "Wastewater_Activated_Sludge_metagenomic",
-                    "Wastewater_Activated_Sludge_metatranscriptomic", "Wastewater_assembly",
-                    "Wastewater_Industrial_wastewater_metagenomic","Wastewater_metagenomic", 
-                    "Wastewater_metatranscriptomic", "Wastewater_Water_and_sludge_metagenomic")
-
-#  c("Wastewater_Water_and_sludge", "Wastewater_Industrial_wastewater", 
-#                    "Wastewater_Activated_Sludge", "Wastewater", "assembly",
-#                    "metagenomic", "metatranscriptomic")
+biomes <- c("PGE", "NOPGE")
 
 thresholds <- seq(0.10, 0.70, by = 0.05)
 
 # Loop through biomes and thresholds
-for (biome in biomes_extypes) {
+for (biome in biomes) {
   for (thresh in thresholds) {
     # Construct file path
     folder_name <- sprintf("%s_%0.2f", network_type, thresh)

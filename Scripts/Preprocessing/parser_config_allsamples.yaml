@@ -1,0 +1,15 @@
+# Configuration for parsing and combining samples from Bracken 
+# and Kraken outputs from the Airbiome project
+metadata_file: "Data/Airbiome_metadata.csv"
+metadata_columns:
+  sample_id: "Library" # The column that contains unique sample IDs
+input_dir: "Data/NOPGE_new/Original_data" 
+output_dir: "Data/NOPGE_new/Processed_data"
+
+# Optional: Minimum relative frequency an OTU must have in a sample to be considered 'present'
+# Default: 0.00005 (0.005%)
+min_rel_freq: 0.00005
+
+# Optional: Minimum proportion of samples an OTU must be 'present' in to be retained
+# Default: 0.5 (present in at least 50% of samples)
+min_prevalence: 0.50

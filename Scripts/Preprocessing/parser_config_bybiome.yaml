@@ -1,0 +1,13 @@
+metadata_file: "Data/Airbiome_metadata.csv"
+metadata_columns:
+  biome: "Biome"
+  sample_id: "Library"
+
+biomes:
+  PGE:
+    input_dir: "Data/PGE"
+    output_dir: "Data/PGE" 
+    
+  NO_PGE:
+    input_dir: "Data/NO_PGE"
+    output_dir: "Data/NO_PGE"

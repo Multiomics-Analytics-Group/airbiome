@@ -33,7 +33,7 @@ lapply(required_packages, require, character.only = TRUE)
 set.seed(123)
 
 # Define function to create and save networks
-constructAndSaveNetwork <- function(networkType, data, thresh, taxRank="Species", seed=123, 
+constructAndSaveNetwork <- function(networkType, data, thresh, taxRank, seed=123, 
                                     base_folder, file_name_prefix, biome_name) {
     # Common parameters
     common_params <- list(
@@ -99,7 +99,7 @@ opt <- parse_args(opt_parser)
 
 # Validate network type and biome
 valid_network_types <- c("cclasso", "spring")
-valid_biomes <- c("PGE", "NO_PGE")
+valid_biomes <- c("PGE", "NO_PGE", "PGE_NOPGE_sp", "PGE_NOPGE_gen")
 
 if (!opt$network %in% valid_network_types) {
   stop("Network type must be 'cclasso' or 'spring'")
@@ -107,6 +107,17 @@ if (!opt$network %in% valid_network_types) {
 
 if (!opt$biome %in% valid_biomes) {
   stop("Biome must be one of the specified options")
+}
+
+# Determine taxRank based on the biome name
+if (opt$biome == "PGE_NOPGE_sp") {
+  current_tax_rank <- "Species_Name"
+} else if (opt$biome == "PGE_NOPGE_gen") {
+  current_tax_rank <- "Genus_Name"
+} else {
+  # Fallback for other biomes if needed, or raise an error
+  current_tax_rank <- "Species_Name" # Default if not explicitly genus/species
+  message("Warning: taxRank not explicitly set for this biome. Defaulting to 'Species_Name'.")
 }
 
 # Construct the file path for saving the phyloseq object
@@ -132,5 +143,7 @@ if (!dir.exists(net_path)) {
   dir.create(net_path, recursive = TRUE)
 }
 
-constructAndSaveNetwork(opt$network, phyloseq_species, opt$threshold, base_folder=net_path, 
+constructAndSaveNetwork(opt$network, phyloseq_species, opt$threshold, 
+                        taxRank=current_tax_rank,
+                        base_folder=net_path, 
                         file_name_prefix=network_prefix, biome_name=opt$biome)

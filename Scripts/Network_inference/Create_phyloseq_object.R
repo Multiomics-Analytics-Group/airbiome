@@ -1,62 +1,122 @@
 # Import libraries
 library(phyloseq)
-library(dplyr)        # filter and reformat data frames
-library(tibble)       # Needed for converting column to row names
-library(microbiome)
-library(stringr)
- 
- process_biome_data <- function(biome_name, base_folder = "Data"){
-   # Create file paths using the biome_experiment_type name
-   metadata_file_path <- file.path(base_folder, paste0(biome_name, "/",biome_name, "_metadata.csv"))
-   abundance_file_path <- file.path(base_folder, paste0(biome_name, "/",biome_name, "_abundance_table_filtered.csv"))
-   taxonomic_file_path <- file.path(base_folder, paste0(biome_name, "/",biome_name, "_taxonomic_table.csv"))
-   
-   # Load data
-   samples_metadata_df <- read.csv(metadata_file_path)
-   abundance_df_species <- read.csv(abundance_file_path)
-   taxonomic_df_species <- read.csv(taxonomic_file_path)
+library(dplyr)       # filter and reformat data frames
+library(tibble)      # Needed for converting column to row names
+library(microbiome)  # Potentially useful for further analysis, though not directly used in this snippet
+library(stringr)     # Potentially useful for string manipulation, though not directly used in this snippet
+
+# Define a function to create a phyloseq object from a given folder
+create_phyloseq_from_folder <- function(folder_path) {
   
-  # Define the row names from the sample column
-  samples_metadata_df <- samples_metadata_df %>% 
-    tibble::column_to_rownames("Library") 
+  folder_name <- basename(folder_path)
+  print(paste0("Processing data for folder: ", folder_name))
   
-  # Set OTU as rowname
-  taxonomic_df_species <- taxonomic_df_species %>% 
-    tibble::column_to_rownames("OTU")
+  # --- Identify file paths based on patterns ---
+  all_files_in_folder <- list.files(path = folder_path, full.names = TRUE)
   
-  abundance_df_species <- abundance_df_species %>% 
-    tibble::column_to_rownames("OTU")
+  # Find metadata file
+  metadata_files <- all_files_in_folder[grepl("metadata", all_files_in_folder, ignore.case = TRUE)]
+  if (length(metadata_files) == 1) {
+    metadata_file_path <- metadata_files[1]
+  } else {
+    stop(paste0("Error: Expected exactly one file containing 'metadata' in its name in ", folder_path, ", but found ", length(metadata_files), "."))
+  }
   
-  # Transform into matrices otu and tax tables
-  abund_mat_species <- as.matrix(abundance_df_species)
-  tax_mat_species <- as.matrix(taxonomic_df_species)
+  # Find abundance file
+  abundance_files <- all_files_in_folder[grepl("abundance_table_filtered", all_files_in_folder, ignore.case = TRUE)]
+  if (length(metadata_files) == 1) {
+    abundance_file_path <- abundance_files[1]
+  } else {
+    stop(paste0("Error: Expected exactly one file containing 'abundance_table_filtered' in its name in ", folder_path, ", but found ", length(abundance_files), "."))
+  }
   
-  # Transform to phyloseq objects
-  Abund_species = otu_table(abund_mat_species, taxa_are_rows = TRUE)
-  Tax_species = tax_table(tax_mat_species)
+  # Find taxonomic file
+  taxonomic_files <- all_files_in_folder[grepl("taxonomic_table_filtered", all_files_in_folder, ignore.case = TRUE)]
+  if (length(taxonomic_files) == 1) {
+    taxonomic_file_path <- taxonomic_files[1]
+  } else {
+    stop(paste0("Error: Expected exactly one file containing 'taxonomic_table_filtered' in its name in ", folder_path, ", but found ", length(taxonomic_files), "."))
+  }
+  
+  print(paste0("Identified metadata file: ", basename(metadata_file_path)))
+  print(paste0("Identified abundance file: ", basename(abundance_file_path)))
+  print(paste0("Identified taxonomic file: ", basename(taxonomic_file_path)))
+  
+  # --- Load data ---
+  samples_metadata_df <- read.csv(metadata_file_path)
+  abundance_df <- read.csv(abundance_file_path)
+  taxonomic_df <- read.csv(taxonomic_file_path)
+  
+  # --- Define the row names ---
+  # For samples_metadata_df, "Library" is the column to be set as row names
+  if ("Library" %in% colnames(samples_metadata_df)) {
+    samples_metadata_df <- samples_metadata_df %>%
+      tibble::column_to_rownames("Library")
+  } else {
+    stop("Error: 'Library' column not found in metadata.csv. Cannot set row names.")
+  }
+  
+  # Determine the ID column name dynamically by looking for a column ending with "_ID"
+  id_cols <- colnames(taxonomic_df)[grepl("_ID$", colnames(taxonomic_df))]
+  
+  if (length(id_cols) == 0) { # Check if no ID column is found at all
+    stop("Error: No column ending with '_ID' found in the taxonomic table.")
+  }
+  id_column_name <- id_cols[1] 
+  
+  # For abundance_df and taxonomic_df, use the dynamically determined ID column
+  if (id_column_name %in% colnames(taxonomic_df)) {
+    taxonomic_df <- taxonomic_df %>%
+      tibble::column_to_rownames(id_column_name)
+  } else {
+    stop(paste0("Error: '", id_column_name, "' column not found in the taxonomic table. Cannot set row names."))
+  }
+  
+  if (id_column_name %in% colnames(abundance_df)) {
+    abundance_df <- abundance_df %>%
+      tibble::column_to_rownames(id_column_name)
+  } else {
+    stop(paste0("Error: '", id_column_name, "' column not found in the abundance table. Cannot set row names."))
+  }
+  
+  # --- Transform into matrices for phyloseq ---
+  abund_mat <- as.matrix(abundance_df)
+  tax_mat <- as.matrix(taxonomic_df)
+  
+  # --- Transform to phyloseq objects ---
+  Abund = otu_table(abund_mat, taxa_are_rows = TRUE)
+  Tax = tax_table(tax_mat)
   samples = sample_data(samples_metadata_df)
   
-  phyloseq_file <- phyloseq(Abund_species, Tax_species, samples)
-
-  print(paste0("Phyloseq object created for ", biome_name))
+  # Create the phyloseq object
+  phyloseq_file <- phyloseq(Abund, Tax, samples)
   
-  return(phyloseq_file)
+  print(paste0("Phyloseq object created for folder: ", folder_name))
+  
+  # --- Save the phyloseq object ---
+  # Construct the file path for saving the phyloseq object
+  file_path <- file.path(folder_path, paste0(folder_name, "_phyloseqfile_filtered", ".rds"))
+  
+  # Save the phyloseq object
+  saveRDS(phyloseq_file, file = file_path)
+  
+  print(paste0("Phyloseq object saved to: ", file_path))
+  
+  return(phyloseq_file) # Optionally return the phyloseq object
 }
 
-# List of biome_experiment_types
-biome_names <- list.dirs(path = "Data", full.names = FALSE, recursive = FALSE)
+# --- Example Calls ---
+# Call the function with the species folder_path
+pge_sp_folder_path <- "Data/PGE_new/Processed_data/PGE_Species" 
+phyloseq_object_pge_sp <- create_phyloseq_from_folder(pge_sp_folder_path)
 
-# Process each biome
-for (biome in biome_names) {
-  # Process the data for the biome_experiment_type
-  biome_phyloseq <- process_biome_data(biome)
-  
-  # Construct the file path for saving the phuloseq object
-  file_path <- paste0("Data/", biome, "/", biome, "_phyloseqfile_filtered.rds")
+nopge_sp_folder_path <- "Data/NOPGE_new/Processed_data/NOPGE_Species" 
+phyloseq_object_nopge_sp <- create_phyloseq_from_folder(nopge_sp_folder_path)
 
-  print(paste0("Phyloseq object saved for ", biome))
-  
-  # Save the biome_experiment_type_phyloseq object
-  saveRDS(biome_phyloseq, file = file_path)
-}
+# Call the function with the genus folder_path
+pge_genus_folder_path <- "Data/PGE_new/Processed_data/PGE_Genus" 
+phyloseq_object_pge_gen <- create_phyloseq_from_folder(pge_genus_folder_path)
+
+nopge_genus_folder_path <- "Data/NOPGE_new/Processed_data/NOPGE_Genus" 
+phyloseq_object_nopge_gen <- create_phyloseq_from_folder(nopge_genus_folder_path)
 

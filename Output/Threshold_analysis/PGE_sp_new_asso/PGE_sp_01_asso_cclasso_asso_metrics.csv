@@ -1,0 +1,15 @@
+Threshold,NetworkType,Dataset,Nodes,Edges,Number_communities,Modularity,Avg_degree,Avg_clustering_coefficient,Density
+0.10,cclasso,PGE_sp_01_asso,3107,528527,5,0.3634262544085308,55.67573607526508,0.11290170489299575,0.10953539263168083
+0.75,cclasso,PGE_sp_01_asso,No network available,No network available,No network available,No network available,No network available,No network available,No network available
+0.20,cclasso,PGE_sp_01_asso,2600,111717,6,0.4679626019269861,22.173238601529853,0.16440593593616137,0.03306508420398378
+0.45,cclasso,PGE_sp_01_asso,277,697,11,0.7181998968255286,2.5130092907419925,0.2748946136880402,0.018233662951917542
+0.60,cclasso,PGE_sp_01_asso,0,0,Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges)
+0.50,cclasso,PGE_sp_01_asso,102,181,12,0.764811477873368,1.943741805163044,0.33939640089570017,0.0351388079984469
+0.35,cclasso,PGE_sp_01_asso,963,7099,12,0.6036327040774443,5.83553466090364,0.24694317032549373,0.015325893830566728
+0.40,cclasso,PGE_sp_01_asso,547,2169,17,0.6490775497263189,3.5615145531351566,0.27181599998727796,0.014524780521124214
+0.25,cclasso,PGE_sp_01_asso,2055,49180,8,0.5226080392295113,14.551567712574967,0.18644227230388383,0.023302700564088348
+0.70,cclasso,PGE_sp_01_asso,No network available,No network available,No network available,No network available,No network available,No network available,No network available
+0.15,cclasso,PGE_sp_01_asso,3007,247547,5,0.41128734655802013,34.70960254886954,0.14189948711045658,0.0547728398651096
+0.30,cclasso,PGE_sp_01_asso,1485,20719,8,0.5560705639029326,9.695519640715993,0.21687730458968374,0.01880348861480937
+0.55,cclasso,PGE_sp_01_asso,18,20,5,0.7155915420104378,1.3580803017226795,0.5558015330576604,0.13071895424836602
+0.65,cclasso,PGE_sp_01_asso,0,0,Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges),Network too small (<= 3 edges)

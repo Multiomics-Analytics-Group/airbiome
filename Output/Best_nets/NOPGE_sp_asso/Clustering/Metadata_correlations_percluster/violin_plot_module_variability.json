@@ -1,0 +1,1567 @@
+{
+  "data": [
+    {
+      "alignmentgroup": "True",
+      "box": {
+        "visible": true
+      },
+      "hovertemplate": "Module=%{x}\u003cbr\u003eMean CLR Abundance=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "0",
+      "marker": {
+        "color": "#636efa"
+      },
+      "name": "0",
+      "offsetgroup": "0",
+      "orientation": "v",
+      "points": "all",
+      "scalegroup": "True",
+      "showlegend": true,
+      "x": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "x0": " ",
+      "xaxis": "x",
+      "y": [
+        2.8424654085799705,
+        3.689313376212675,
+        4.460519340161273,
+        3.3145945514181876,
+        3.604796192040499,
+        3.3336925454663358,
+        3.099489181326618,
+        4.28407173110683,
+        4.467205507357634,
+        2.8699451823036033,
+        3.8127771778667294,
+        3.4026429550816992,
+        4.041977773700824,
+        3.959367952060166,
+        3.6757714613241816,
+        4.031706992523496,
+        3.331512151983406,
+        2.98489847840334,
+        3.708691552017671,
+        3.1034158236438416,
+        3.20018634669246,
+        3.432294574793099
+      ],
+      "y0": " ",
+      "yaxis": "y",
+      "type": "violin"
+    },
+    {
+      "alignmentgroup": "True",
+      "box": {
+        "visible": true
+      },
+      "hovertemplate": "Module=%{x}\u003cbr\u003eMean CLR Abundance=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "1",
+      "marker": {
+        "color": "#EF553B"
+      },
+      "name": "1",
+      "offsetgroup": "1",
+      "orientation": "v",
+      "points": "all",
+      "scalegroup": "True",
+      "showlegend": true,
+      "x": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1
+      ],
+      "x0": " ",
+      "xaxis": "x",
+      "y": [
+        1.815107392487034,
+        2.018542970778348,
+        2.4070186058098546,
+        -1.2996935985593232,
+        0.9323869774831351,
+        1.095590439132254,
+        1.562815848306825,
+        3.29748473836136,
+        1.4224221658945089,
+        -0.5250867370076922,
+        2.6898718114678206,
+        -0.791018633720343,
+        -0.21873736708257877,
+        -0.5619889900086451,
+        2.233124426792067,
+        1.965825938191447,
+        -1.0736232223255413,
+        -1.4701126367679958,
+        0.8566725184223518,
+        0.9804475375873836,
+        1.7609817639901948,
+        -0.5703907179972203
+      ],
+      "y0": " ",
+      "yaxis": "y",
+      "type": "violin"
+    },
+    {
+      "alignmentgroup": "True",
+      "box": {
+        "visible": true
+      },
+      "hovertemplate": "Module=%{x}\u003cbr\u003eMean CLR Abundance=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "2",
+      "marker": {
+        "color": "#00cc96"
+      },
+      "name": "2",
+      "offsetgroup": "2",
+      "orientation": "v",
+      "points": "all",
+      "scalegroup": "True",
+      "showlegend": true,
+      "x": [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ],
+      "x0": " ",
+      "xaxis": "x",
+      "y": [
+        1.1111605560639684,
+        0.9494097382415997,
+        1.281160176028114,
+        -1.9427679524523864,
+        0.75096353751175,
+        0.26818055583665507,
+        1.2988942070256897,
+        1.91732762633457,
+        0.45051662742213167,
+        -1.221581209742153,
+        1.7432857509532316,
+        -1.4632767300254785,
+        -1.5650603276209942,
+        -1.604001546956276,
+        1.5473917606612464,
+        0.8936033240814572,
+        -1.7118941736117623,
+        -1.8765181619986617,
+        -0.1700520186579599,
+        0.3521013076730099,
+        0.9259186361075982,
+        -1.257398254408444
+      ],
+      "y0": " ",
+      "yaxis": "y",
+      "type": "violin"
+    },
+    {
+      "alignmentgroup": "True",
+      "box": {
+        "visible": true
+      },
+      "hovertemplate": "Module=%{x}\u003cbr\u003eMean CLR Abundance=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "3",
+      "marker": {
+        "color": "#ab63fa"
+      },
+      "name": "3",
+      "offsetgroup": "3",
+      "orientation": "v",
+      "points": "all",
+      "scalegroup": "True",
+      "showlegend": true,
+      "x": [
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3,
+        3
+      ],
+      "x0": " ",
+      "xaxis": "x",
+      "y": [
+        1.1860724934663092,
+        1.9612972632337773,
+        2.9782757559280757,
+        1.4550772796867422,
+        1.8183510165108228,
+        1.5732945746812872,
+        1.3477075846427926,
+        2.669410583480077,
+        2.9695714045080908,
+        1.151295759975925,
+        1.9632420804794586,
+        1.5267957092842064,
+        2.0663771638205994,
+        2.051822364654326,
+        2.1654481827148,
+        2.713387369860502,
+        1.535640575714922,
+        1.1612744763766936,
+        2.2510480435960836,
+        1.1814947588875773,
+        1.482710611517045,
+        1.6360369556892984
+      ],
+      "y0": " ",
+      "yaxis": "y",
+      "type": "violin"
+    },
+    {
+      "alignmentgroup": "True",
+      "box": {
+        "visible": true
+      },
+      "hovertemplate": "Module=%{x}\u003cbr\u003eMean CLR Abundance=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "4",
+      "marker": {
+        "color": "#FFA15A"
+      },
+      "name": "4",
+      "offsetgroup": "4",
+      "orientation": "v",
+      "points": "all",
+      "scalegroup": "True",
+      "showlegend": true,
+      "x": [
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4,
+        4
+      ],
+      "x0": " ",
+      "xaxis": "x",
+      "y": [
+        -0.5884974292293746,
+        0.6612355611586924,
+        0.39821328363586905,
+        -0.44120142006617746,
+        -0.6207503224951448,
+        0.17570497141061434,
+        -0.45265237538882896,
+        0.9673316558364926,
+        0.12394645186486812,
+        -0.5193122021089195,
+        0.512587455714686,
+        -0.34976993678899754,
+        0.08980271161049753,
+        0.34166014926601773,
+        -0.08444928099419649,
+        1.0388162874796036,
+        -0.11360364769953524,
+        -0.8581168649718262,
+        0.1845342685905825,
+        -0.45315935425454246,
+        0.2620356578115162,
+        0.10640812133115958
+      ],
+      "y0": " ",
+      "yaxis": "y",
+      "type": "violin"
+    },
+    {
+      "alignmentgroup": "True",
+      "box": {
+        "visible": true
+      },
+      "hovertemplate": "Module=%{x}\u003cbr\u003eMean CLR Abundance=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "5",
+      "marker": {
+        "color": "#19d3f3"
+      },
+      "name": "5",
+      "offsetgroup": "5",
+      "orientation": "v",
+      "points": "all",
+      "scalegroup": "True",
+      "showlegend": true,
+      "x": [
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "x0": " ",
+      "xaxis": "x",
+      "y": [
+        -0.0684408598763786,
+        0.9361385218770351,
+        0.8003126450618079,
+        -0.4970351712351302,
+        -0.18404810519206727,
+        -0.24428762622446243,
+        0.45747229556268243,
+        0.9500927977551257,
+        1.0020971836518706,
+        -0.2608245375290885,
+        0.925798068914035,
+        -0.1679446808356142,
+        1.685687873812894,
+        0.15751018048083587,
+        0.4170090852082111,
+        1.017105859278565,
+        0.005282430344283995,
+        -0.13913968948145117,
+        1.0521774669799642,
+        -0.0960967587107211,
+        0.20418212509856715,
+        0.12787034083498727
+      ],
+      "y0": " ",
+      "yaxis": "y",
+      "type": "violin"
+    },
+    {
+      "alignmentgroup": "True",
+      "box": {
+        "visible": true
+      },
+      "hovertemplate": "Module=%{x}\u003cbr\u003eMean CLR Abundance=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "6",
+      "marker": {
+        "color": "#FF6692"
+      },
+      "name": "6",
+      "offsetgroup": "6",
+      "orientation": "v",
+      "points": "all",
+      "scalegroup": "True",
+      "showlegend": true,
+      "x": [
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6,
+        6
+      ],
+      "x0": " ",
+      "xaxis": "x",
+      "y": [
+        0.4753676968413848,
+        0.4563799728538607,
+        1.7381578443089312,
+        0.048136820011845834,
+        0.3101842923885854,
+        0.7622647827119694,
+        0.3573618671489368,
+        2.406644031475241,
+        1.1348457268020398,
+        0.42863877123617705,
+        1.3198507733433418,
+        0.9809086049208762,
+        0.8995134788901187,
+        1.578084789132295,
+        1.1055928314280654,
+        1.2730015805501878,
+        0.8195099661671075,
+        0.41196918954289735,
+        1.5043508533568533,
+        1.0146839349153676,
+        1.0623675574547984,
+        0.795961109601187
+      ],
+      "y0": " ",
+      "yaxis": "y",
+      "type": "violin"
+    },
+    {
+      "alignmentgroup": "True",
+      "box": {
+        "visible": true
+      },
+      "hovertemplate": "Module=%{x}\u003cbr\u003eMean CLR Abundance=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "7",
+      "marker": {
+        "color": "#B6E880"
+      },
+      "name": "7",
+      "offsetgroup": "7",
+      "orientation": "v",
+      "points": "all",
+      "scalegroup": "True",
+      "showlegend": true,
+      "x": [
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7,
+        7
+      ],
+      "x0": " ",
+      "xaxis": "x",
+      "y": [
+        2.3951760571349126,
+        2.0462874035570855,
+        2.358149481503689,
+        1.6759978242799294,
+        2.244088462976435,
+        2.2018406421102057,
+        2.355186841932112,
+        3.2763507531627565,
+        2.562502272887574,
+        2.0088858986469575,
+        2.402217762973558,
+        2.2821631435935585,
+        2.279190888740403,
+        2.712093780716323,
+        2.181517588466625,
+        2.5940696128213108,
+        2.4124704220258426,
+        1.7251185048778657,
+        2.686741931694492,
+        2.707209578647953,
+        2.7460794486140148,
+        2.4706602737812253
+      ],
+      "y0": " ",
+      "yaxis": "y",
+      "type": "violin"
+    },
+    {
+      "alignmentgroup": "True",
+      "box": {
+        "visible": true
+      },
+      "hovertemplate": "Module=%{x}\u003cbr\u003eMean CLR Abundance=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "8",
+      "marker": {
+        "color": "#FF97FF"
+      },
+      "name": "8",
+      "offsetgroup": "8",
+      "orientation": "v",
+      "points": "all",
+      "scalegroup": "True",
+      "showlegend": true,
+      "x": [
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8,
+        8
+      ],
+      "x0": " ",
+      "xaxis": "x",
+      "y": [
+        0.19836158199352058,
+        0.40245051114199687,
+        0.6982643887939517,
+        -0.7014729877936375,
+        0.05054617480630341,
+        0.2880892653597842,
+        -0.04816323586899932,
+        1.6123578072043265,
+        0.5587022391206592,
+        -0.2390962218976543,
+        0.33532545470893843,
+        0.044081947094674355,
+        0.2753944069909524,
+        0.38077746452981803,
+        0.060497909443976816,
+        0.774066284860153,
+        0.17385085304662282,
+        -0.716066108041835,
+        0.6094318158233157,
+        0.4326656335738794,
+        0.6689401554310791,
+        0.2079828142214799
+      ],
+      "y0": " ",
+      "yaxis": "y",
+      "type": "violin"
+    },
+    {
+      "alignmentgroup": "True",
+      "box": {
+        "visible": true
+      },
+      "hovertemplate": "Module=%{x}\u003cbr\u003eMean CLR Abundance=%{y}\u003cextra\u003e\u003c\u002fextra\u003e",
+      "legendgroup": "9",
+      "marker": {
+        "color": "#FECB52"
+      },
+      "name": "9",
+      "offsetgroup": "9",
+      "orientation": "v",
+      "points": "all",
+      "scalegroup": "True",
+      "showlegend": true,
+      "x": [
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9,
+        9
+      ],
+      "x0": " ",
+      "xaxis": "x",
+      "y": [
+        -0.683162157945263,
+        -0.42638327312102775,
+        0.19216617504472647,
+        -1.6965369514273279,
+        -1.0083838190565142,
+        -0.857995625339344,
+        -0.8086780432135628,
+        0.9750667042040781,
+        -0.2867422530165958,
+        -1.1850254129194286,
+        0.01703976697115106,
+        -1.1672155335180188,
+        -0.7272208999147143,
+        -0.7352579364306115,
+        -0.31208625442680754,
+        0.28794850993597776,
+        -1.0939816984396995,
+        -1.4596908563053932,
+        -0.12806562913702435,
+        -0.7149371349145524,
+        -0.3535520857281976,
+        -0.9499545159034083
+      ],
+      "y0": " ",
+      "yaxis": "y",
+      "type": "violin"
+    }
+  ],
+  "layout": {
+    "template": {
+      "data": {
+        "barpolar": [
+          {
+            "marker": {
+              "line": {
+                "color": "white",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "barpolar"
+          }
+        ],
+        "bar": [
+          {
+            "error_x": {
+              "color": "#2a3f5f"
+            },
+            "error_y": {
+              "color": "#2a3f5f"
+            },
+            "marker": {
+              "line": {
+                "color": "white",
+                "width": 0.5
+              },
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "bar"
+          }
+        ],
+        "carpet": [
+          {
+            "aaxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "baxis": {
+              "endlinecolor": "#2a3f5f",
+              "gridcolor": "#C8D4E3",
+              "linecolor": "#C8D4E3",
+              "minorgridcolor": "#C8D4E3",
+              "startlinecolor": "#2a3f5f"
+            },
+            "type": "carpet"
+          }
+        ],
+        "choropleth": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "choropleth"
+          }
+        ],
+        "contourcarpet": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "contourcarpet"
+          }
+        ],
+        "contour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "contour"
+          }
+        ],
+        "heatmapgl": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmapgl"
+          }
+        ],
+        "heatmap": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "heatmap"
+          }
+        ],
+        "histogram2dcontour": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2dcontour"
+          }
+        ],
+        "histogram2d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "histogram2d"
+          }
+        ],
+        "histogram": [
+          {
+            "marker": {
+              "pattern": {
+                "fillmode": "overlay",
+                "size": 10,
+                "solidity": 0.2
+              }
+            },
+            "type": "histogram"
+          }
+        ],
+        "mesh3d": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "type": "mesh3d"
+          }
+        ],
+        "parcoords": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "parcoords"
+          }
+        ],
+        "pie": [
+          {
+            "automargin": true,
+            "type": "pie"
+          }
+        ],
+        "scatter3d": [
+          {
+            "line": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatter3d"
+          }
+        ],
+        "scattercarpet": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattercarpet"
+          }
+        ],
+        "scattergeo": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergeo"
+          }
+        ],
+        "scattergl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattergl"
+          }
+        ],
+        "scattermapbox": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scattermapbox"
+          }
+        ],
+        "scatterpolargl": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolargl"
+          }
+        ],
+        "scatterpolar": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterpolar"
+          }
+        ],
+        "scatter": [
+          {
+            "fillpattern": {
+              "fillmode": "overlay",
+              "size": 10,
+              "solidity": 0.2
+            },
+            "type": "scatter"
+          }
+        ],
+        "scatterternary": [
+          {
+            "marker": {
+              "colorbar": {
+                "outlinewidth": 0,
+                "ticks": ""
+              }
+            },
+            "type": "scatterternary"
+          }
+        ],
+        "surface": [
+          {
+            "colorbar": {
+              "outlinewidth": 0,
+              "ticks": ""
+            },
+            "colorscale": [
+              [
+                0.0,
+                "#0d0887"
+              ],
+              [
+                0.1111111111111111,
+                "#46039f"
+              ],
+              [
+                0.2222222222222222,
+                "#7201a8"
+              ],
+              [
+                0.3333333333333333,
+                "#9c179e"
+              ],
+              [
+                0.4444444444444444,
+                "#bd3786"
+              ],
+              [
+                0.5555555555555556,
+                "#d8576b"
+              ],
+              [
+                0.6666666666666666,
+                "#ed7953"
+              ],
+              [
+                0.7777777777777778,
+                "#fb9f3a"
+              ],
+              [
+                0.8888888888888888,
+                "#fdca26"
+              ],
+              [
+                1.0,
+                "#f0f921"
+              ]
+            ],
+            "type": "surface"
+          }
+        ],
+        "table": [
+          {
+            "cells": {
+              "fill": {
+                "color": "#EBF0F8"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "header": {
+              "fill": {
+                "color": "#C8D4E3"
+              },
+              "line": {
+                "color": "white"
+              }
+            },
+            "type": "table"
+          }
+        ]
+      },
+      "layout": {
+        "annotationdefaults": {
+          "arrowcolor": "#2a3f5f",
+          "arrowhead": 0,
+          "arrowwidth": 1
+        },
+        "autotypenumbers": "strict",
+        "coloraxis": {
+          "colorbar": {
+            "outlinewidth": 0,
+            "ticks": ""
+          }
+        },
+        "colorscale": {
+          "diverging": [
+            [
+              0,
+              "#8e0152"
+            ],
+            [
+              0.1,
+              "#c51b7d"
+            ],
+            [
+              0.2,
+              "#de77ae"
+            ],
+            [
+              0.3,
+              "#f1b6da"
+            ],
+            [
+              0.4,
+              "#fde0ef"
+            ],
+            [
+              0.5,
+              "#f7f7f7"
+            ],
+            [
+              0.6,
+              "#e6f5d0"
+            ],
+            [
+              0.7,
+              "#b8e186"
+            ],
+            [
+              0.8,
+              "#7fbc41"
+            ],
+            [
+              0.9,
+              "#4d9221"
+            ],
+            [
+              1,
+              "#276419"
+            ]
+          ],
+          "sequential": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ],
+          "sequentialminus": [
+            [
+              0.0,
+              "#0d0887"
+            ],
+            [
+              0.1111111111111111,
+              "#46039f"
+            ],
+            [
+              0.2222222222222222,
+              "#7201a8"
+            ],
+            [
+              0.3333333333333333,
+              "#9c179e"
+            ],
+            [
+              0.4444444444444444,
+              "#bd3786"
+            ],
+            [
+              0.5555555555555556,
+              "#d8576b"
+            ],
+            [
+              0.6666666666666666,
+              "#ed7953"
+            ],
+            [
+              0.7777777777777778,
+              "#fb9f3a"
+            ],
+            [
+              0.8888888888888888,
+              "#fdca26"
+            ],
+            [
+              1.0,
+              "#f0f921"
+            ]
+          ]
+        },
+        "colorway": [
+          "#636efa",
+          "#EF553B",
+          "#00cc96",
+          "#ab63fa",
+          "#FFA15A",
+          "#19d3f3",
+          "#FF6692",
+          "#B6E880",
+          "#FF97FF",
+          "#FECB52"
+        ],
+        "font": {
+          "color": "#2a3f5f"
+        },
+        "geo": {
+          "bgcolor": "white",
+          "lakecolor": "white",
+          "landcolor": "white",
+          "showlakes": true,
+          "showland": true,
+          "subunitcolor": "#C8D4E3"
+        },
+        "hoverlabel": {
+          "align": "left"
+        },
+        "hovermode": "closest",
+        "mapbox": {
+          "style": "light"
+        },
+        "paper_bgcolor": "white",
+        "plot_bgcolor": "white",
+        "polar": {
+          "angularaxis": {
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8",
+            "ticks": ""
+          },
+          "bgcolor": "white",
+          "radialaxis": {
+            "gridcolor": "#EBF0F8",
+            "linecolor": "#EBF0F8",
+            "ticks": ""
+          }
+        },
+        "scene": {
+          "xaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#EBF0F8"
+          },
+          "yaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#EBF0F8"
+          },
+          "zaxis": {
+            "backgroundcolor": "white",
+            "gridcolor": "#DFE8F3",
+            "gridwidth": 2,
+            "linecolor": "#EBF0F8",
+            "showbackground": true,
+            "ticks": "",
+            "zerolinecolor": "#EBF0F8"
+          }
+        },
+        "shapedefaults": {
+          "line": {
+            "color": "#2a3f5f"
+          }
+        },
+        "ternary": {
+          "aaxis": {
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6",
+            "ticks": ""
+          },
+          "baxis": {
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6",
+            "ticks": ""
+          },
+          "bgcolor": "white",
+          "caxis": {
+            "gridcolor": "#DFE8F3",
+            "linecolor": "#A2B1C6",
+            "ticks": ""
+          }
+        },
+        "title": {
+          "x": 0.05
+        },
+        "xaxis": {
+          "automargin": true,
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        },
+        "yaxis": {
+          "automargin": true,
+          "gridcolor": "#EBF0F8",
+          "linecolor": "#EBF0F8",
+          "ticks": "",
+          "title": {
+            "standoff": 15
+          },
+          "zerolinecolor": "#EBF0F8",
+          "zerolinewidth": 2
+        }
+      }
+    },
+    "xaxis": {
+      "anchor": "y",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "title": {
+        "text": "Module"
+      },
+      "categoryorder": "array",
+      "categoryarray": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "type": "category"
+    },
+    "yaxis": {
+      "anchor": "x",
+      "domain": [
+        0.0,
+        1.0
+      ],
+      "title": {
+        "text": "Mean CLR Abundance"
+      }
+    },
+    "legend": {
+      "title": {
+        "text": "Module"
+      },
+      "tracegroupgap": 0
+    },
+    "margin": {
+      "t": 60
+    },
+    "violinmode": "overlay",
+    "showlegend": false
+  }
+}
